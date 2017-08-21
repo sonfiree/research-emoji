@@ -1,0 +1,3935 @@
+✔️	Tick	True	
+🇭🇺	Hungarian Flag	True	
+🇮🇶	Iraqi Flag	True	
+🇧🇧	Bajan Flag	True	
+🆑	Squared CL	True	
+👷	Construction Worker	True	
+🇨🇽	Christmas Island Flag	True	
+🕹️	Joystick	True	
+🇵🇬	PNG Flag	True	
+🖍️	Lower Left Crayon	True	
+👨‍🍳	Man Cook	True	
+🔕	Notifications	True	
+🈸	申	True	
+😧	Pained Face	True	
+🌐	Globified	True	
+🌜	Last Quarter Moon With Face	True	
+🚷	No People	True	
+🇺🇿	flag Uzbekistan	True	
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	Red Dragon	True	
+🚓	Side Of Police Car	True	
+🎲	Dice	True	
+☑️	Checkbox	True	
+🇱🇮	flag Liechtenstein	True	
+🍝	Pasta	True	
+⚰️	Funeral	True	
+🎭	Theatre Logo	True	
+🇦🇷	Argentinian Flag	True	
+📲	Mobile Phone With Rightwards Arrow at Left	True	
+🇬🇬	flag Guernsey	True	
+😡	Mad Face	True	
+🈲	Forbid	True	
+☺️	White Smiling Face	True	
+🏳️	Waving White Flag	True	
+⛽	Petrol Pump	True	
+✅	Green Check Mark	True	
+💚	Green Heart	True	
+🙇	Dogeza	True	
+🇱🇧	Lebanese Flag	True	
+💃	Salsa Dancer	True	
+👲	Man With Gua Pi Mao	True	
+🎞️	Film Frames	True	
+👙	Swimsuit	True	
+📦	Box	True	
+🆗	Square	True	
+🛠️	Hammer and Wrench	True	
+🎸	Bass Guitar	True	
+💡	Light Bulb	True	
+🇰🇿	flag Kazakhstan	True	
+👢	Knee High Boots	True	
+📆	Desk Calendar	True	
+🤢	Nauseated Face	True	
+🎻	World’s Smallest Violin	True	
+👚	Blouse	True	
+🌯	Wrap	True	
+🗳️	Ballot Box With Ballot	True	
+🌌	Stars	True	
+🚼	Baby Change Symbol	True	
+📓	Notebook	True	
+🍰	Shortcake	True	
+🇨🇨	flag Cocos (Keeling) Islands	True	
+🇰🇷	flag South Korea	True	
+🎉	Party Popper	True	
+🌏	Earth Globe Asia-Australia	True	
+🉑	Circled Ideograph Accept	True	
+😹	Laughing Cat	True	
+🎖️	Medallion	True	
+🚸	Children Crossing	True	
+🐆	African Leopard	True	
+🕵️	Sleuth	True	
+🕣	Clock Eight-Thirty	True	
+🤽	Water Polo	True	
+✌️	V Sign	True	
+⚖️	Scales of Justice	True	
+🐗	Boar	True	
+🔬	Magnify	True	
+🔍	Magnifier	True	
+👗	Skirt	True	
+😵	Cross Eyes Face	True	
+🇯🇵	Regional Indicator Symbol Letters JP	True	
+🇸🇱	Sierra Leonean Flag	True	
+🔥	Fire	True	
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	Welsh Flag	True	
+🇧🇭	Bahrani Flag	True	
+⬅️	Arrow Pointing Left	True	
+⛲	Water Feature	True	
+😈	Smiling Face With Horns	True	
+🤑	Rich	True	
+🎑	Harvest Moon	True	
+🤾‍♀️	Woman Playing Handball	True	
+🛐	Place of Worship	True	
+🙍	Person Frowning	True	
+🎐	Furin	True	
+📲	Pointing To Phone	True	
+✏️	Pencil	True	
+⏱️	Stopwatch	True	
+✈️	Plane	True	
+⚡	Lightning Bolt	True	
+📻	Radio	True	
+🌀	Cyclone	True	
+😱	Home Alone	True	
+🇨🇫	Central African Flag	True	
+📶	Antenna With Bars	True	
+🕒	Clock Three O’Clock	True	
+🚣	Rowing	True	
+🍑	Bottom	True	
+👨‍👩‍👦‍👦	Family: Man, Woman, Boy, Boy	True	
+🦎	Lizard	True	
+🎈	Red Balloon	True	
+📇	System Card	True	
+🇵🇷	Puerto Rican Flag	True	
+🏺	Vase	True	
+🍜	Noodles With Chopsticks	True	
+🌄	Sunrise	True	
+🚓	Cop Car	True	
+💬	Chat Bubble	True	
+🇩🇯	flag Djibouti	True	
+💋	Kiss Mark	True	
+👑	Crown	True	
+🇻🇺	Ni-Vanuatu\xa0Flag	True	
+🔨	Claw Hammer	True	
+🌿	Crop	True	
+👬	Gay Couple	True	
+🙋	Answering Question	True	
+👤	Bust in Silhouette	True	
+🗣️	Mansplaining	True	
+👖	Trousers	True	
+🔡	Input Symbol for Latin Small Letters	True	
+🎁	Birthday Present	True	
+👨	Moustache Man	True	
+🔮	Psychic	True	
+🙏	High Five	True	
+💁	Sassy Girl	True	
+🐹	Hamster	True	
+🍡	Pink White Green Balls	True	
+🎿	Skiing	True	
+🤼	Wrestlers	True	
+💄	Lip Gloss	True	
+🇩🇿	Algerian Flag	True	
+🇪🇬	flag Egypt	True	
+🐣	Chick Hatching	True	
+📂	Open Folder	True	
+👸	Girl With Crown	True	
+🍲	Bowl Of Food	True	
+👩‍👩‍👧‍👧	Family: Woman, Woman, Girl, Girl	True	
+⛄	Frosty The Snowman	True	
+💸	Money With Wings	True	
+👎	Thumbs Down	True	
+🇹🇰	flag Tokelau	True	
+🈚	Squared CJK Unified Ideograph-7121	True	
+📬	Open Mailbox	True	
+🏦	Bakkureru	True	
+👨‍👨‍👧‍👦	Family: Man, Man, Girl, Boy	True	
+⛱️	Umbrella on Ground	True	
+📬	Open Mailbox With Raised Flag	True	
+👱	Blonde	True	
+🕵️‍♂️	Man Detective	True	
+🇬🇱	flag Greenland	True	
+🍼	Baby Bottle	True	
+🐤	Baby Chick	True	
+3️⃣	Keycap Digit Three	True	
+😿	Crying Cat Face	True	
+🔥	Lit	True	
+🔟	Number 10	True	
+🐞	Ladybird	True	
+🈹	Squared CJK Unified Ideograph-5272	True	
+🔋	Battery	True	
+🏺	Amphora	True	
+🐮	Happy Cow	True	
+🐛	Centipede	True	
+🐲	Dragon Face	True	
+🇰🇷	Regional Indicator Symbol Letters KR	True	
+😠	Grumpy Face	True	
+📃	Page With Curl	True	
+🇱🇹	Lithuanian Flag	True	
+🍑	Peach	True	
+🛀	Bath	True	
+👉	Right Pointing Backhand Index	True	
+🕊️	Dove of Peace	True	
+🎯	Direct Hit	True	
+🎮	Wii U	True	
+🏣	Japanese Postal Mark	True	
+🎖️	Medal	True	
+💉	Needle	True	
+🎢	Theme Park	True	
+😩	Weary Face	True	
+😃	Smiley Face	True	
+🔋	AA Battery	True	
+🇨🇫	flag Central African Republic	True	
+🕌	Domed Roof	True	
+🗾	Silhouette of Japan	True	
+✳️	Eight Spoked Asterisk	True	
+🇰🇲	Comoran Flag	True	
+🚪	Door	True	
+🚉	Train Platform	True	
+🌮	Taco	True	
+🇬🇼	flag Guinea-Bissau	True	
+🤡	Scary Clown	True	
+🦋	Butterfly	True	
+💼	Suitcase	True	
+🎌	Two Flags	True	
+🔊	Speaker With Three Sound Waves	True	
+😻	Smiling Cat Face With Heart-Shaped Eyes	True	
+🤚	Backhand	True	
+😡	Red Face	True	
+😂	Laughing Tears	True	
+👨‍👨‍👦	Family: Man, Man, Boy	True	
+🇩🇰	Danish Flag	True	
+🕦	Clock Eleven-Thirty	True	
+🌊	Sea	True	
+🏂	Snowboarding	True	
+💺	Train Seat	True	
+♥️	Hearts	True	
+🚓	Police Car	True	
+🎌	Crossed Flags	True	
+🤥	Liar	True	
+🇬🇮	flag Gibraltar	True	
+💇‍♂️	Man Getting Haircut	True	
+↔️	Left Right Arrow	True	
+🤧	Gesundheit	True	
+🎓	University	True	
+🥀	Drooping Flower	True	
+😉	Winking Face	True	
+🍁	Maple	True	
+😤	Mad Face	True	
+😑	Straight Face	True	
+🇰🇮	I-Kiribati Flag	True	
+🚱	Non-Potable Water Symbol	True	
+🗃️	Card File Box	True	
+😤	Face With Look of Triumph	True	
+🙋	Happy Person Raising One Hand	True	
+👨‍👩‍👦	Family: Man, Woman, Boy	True	
+⛄	Snowman Without Snow	True	
+😙	Kissing Face With Smiling Eyes	True	
+🐱	Kitten	True	
+😬	Grimacing Face	True	
+🎌	Two Flags	True	
+🇨🇳	flag China	True	
+🚖	Oncoming Taxi	True	
+🏈	Superbowl	True	
+🌏	World	True	
+👽	ET	True	
+🌹	Rose	True	
+👁️	Single Eye	True	
+🇱🇨	flag St. Lucia	True	
+💾	3.5″ Disk	True	
+⬜	White Large Square	True	
+🇳🇱	flag Netherlands	True	
+🥐	Croissant	True	
+👩‍👩‍👧	Lesbian family with child	True	
+😋	Goofy	True	
+⛩️	Shinto Shrine	True	
+🇸🇱	flag Sierra Leone	True	
+🚞	Funicular	True	
+👩‍👩‍👧‍👦	Lesbian family	True	
+🏵️	Rosette	True	
+📤	Outbox	True	
+🌱	Sprout	True	
+🚘	Apple Car	True	
+▫️	White Small Square	True	
+🇺🇿	Uzbek Flag	True	
+👏	Clapping	True	
+🎠	Fairground	True	
+🔗	Linked Chain	True	
+🆙	Squared Up With Exclamation Mark	True	
+🇧🇼	Batswana Flag	True	
+🇸🇬	flag Singapore	True	
+〽️	M	True	
+🔱	Trident	True	
+👨‍🏭	Man Factory Worker	True	
+🏍️	Motorbike	True	
+🖍️	Lower Left Crayon	True	
+💠	Diamond Shape With a Dot Inside	True	
+🇯🇵	flag Japan	True	
+🎋	Wish Tree	True	
+🚸	Kids Crossing	True	
+🏍️	Racing Motorcycle	True	
+🔭	Stargazing	True	
+🗂️	Card Index Dividers	True	
+🇴🇲	flag Oman	True	
+🐃	Buffalo	True	
+🌂	Closed Umbrella	True	
+🇧🇲	flag Bermuda	True	
+💕	Small Hearts	True	
+🖖	Spock	True	
+🐂	Oxen	True	
+🙏	Praying Hands	True	
+📨	Fast Envelope	True	
+💆	Massaging	True	
+🇬🇮	Gibraltarian Flag	True	
+🇿🇼	Zim Flag	True	
+😧	Anguished Face	True	
+📯	Bugle	True	
+🚰	Thirst	True	
+🎿	Ski and Ski Boot	True	
+🇮🇨	flag Canary Islands	True	
+😁	Grinning Face With Smiling Eyes	True	
+🌡️	Thermometer	True	
+🇯🇵	Japanese Flag	True	
+🌝	Smiley Moon	True	
+🐎	Galloping Horse	True	
+💈	Barber Pole	True	
+👢	Cowgirl Boots	True	
+🇧🇳	flag Brunei	True	
+💈	Barbers Stripes	True	
+🌡️	Temperature	True	
+👩‍👩‍👧	Family: Woman, Woman, Girl	True	
+🔢	Numbers	True	
+📇	Index Card	True	
+🎋	Tanabata Tree	True	
+🐾	Kitten Paw Prints	True	
+🇰🇳	flag St. Kitts &amp; Nevis	True	
+🚕	Side Of Taxi	True	
+👩‍🏭	Woman Factory Worker	True	
+🛵	Motor Scooter	True	
+👦	Boy	True	
+🌤️	White Sun With Small Cloud	True	
+💗	Growing Heart	True	
+📝	Note	True	
+👄	Lips	True	
+🌭	Hot Dog	True	
+➿	Double Curling Loop	True	
+🎿	Skis	True	
+👱	Person With Blond Hair	True	
+🇲🇰	Macedonian Flag	True	
+👩‍👧‍👧	Only parent	True	
+🏎️	Formula One	True	
+👄	Speaking	True	
+🐁	Rodent	True	
+✍️	Writing Hand	True	
+👩‍👦‍👦	Mother	True	
+🎑	Tsukimi	True	
+🐰	Easter Bunny	True	
+🥔	Potato	True	
+💌	Heart Envelope	True	
+👣	Footprints	True	
+🐝	Honeybee	True	
+🎤	Microphone	True	
+📞	Telephone Receiver	True	
+🏌️	Golf	True	
+🇲🇻	flag Maldives	True	
+📟	Beeper	True	
+🇳🇿	flag New Zealand	True	
+📠	Fax	True	
+🌄	Sunrise Over Mountains	True	
+🌬️	Wind Blowing Face	True	
+🗿	Moai	True	
+🇦🇲	flag Armenia	True	
+⚾	Softball	True	
+⏱️	Stopwatch	True	
+🦀	Red Crab	True	
+👺	Long Nose Face	True	
+🐆	Jaguar	True	
+🎅	Saint Nicholas	True	
+🍰	Piece Of Cake	True	
+🎂	Birthday Cake	True	
+🤤	Drooling Face	True	
+🎛️	Control Knobs	True	
+🔱	Pitchfork	True	
+🚰	Thirst	True	
+🤰	Pregnant Woman	True	
+🥑	Avocado	True	
+🚵	Mountain Bike	True	
+🇩🇪	German Flag	True	
+😼	Smirking Cat	True	
+❕	White Exclamation Mark	True	
+💾	Disk	True	
+💎	Gem	True	
+🏣	Japanese Post Office	True	
+🏪	Kwik-E-Mart	True	
+📠	Fax Machine	True	
+👪	Family	True	
+♠️	Spades	True	
+🌠	When You Wish Upon A Star	True	
+🇹🇻	Tuvaluan Flag	True	
+🆖	NG	True	
+🔷	Large Blue Diamond	True	
+🍻	Cheers	True	
+✌️	Peace	True	
+🀄	Mahjong Tile	True	
+✉️	✉\xa0Letter	True	
+🥃	Bourbon	True	
+➰	Curling Loop	True	
+⬆️	Up Arrow	True	
+💃	Red Dress Woman	True	
+🎐	Furin	True	
+🤕	Bandaged Head	True	
+👗	Gown	True	
+🎽	Running Shirt With Sash	True	
+📨	Envelope With Lines	True	
+🍦	Mr Whippy	True	
+🗑️	Wastebasket	True	
+🤝	Shaking Hands	True	
+💨	Dash Symbol	True	
+🕐	Clock One O’Clock	True	
+🔂	Circle Arrows With Number 1	True	
+🚨	Flashing Light	True	
+🐉	Dragon	True	
+🚍	Front Of Bus	True	
+🍻	Beers	True	
+🐑	Ewe	True	
+🌌	Universe	True	
+☕	Tea	True	
+🚿	Shower Head	True	
+🐣	Hatching Chick	True	
+🍉	Watermelon	True	
+📨	Incoming Envelope	True	
+⏩	Fast Forward	True	
+🎥	Movie Camera	True	
+🕞	Clock Three-Thirty	True	
+♒	Aquarius	True	
+🔑	Gold Key	True	
+🎓	College	True	
+🇨🇺	flag Cuba	True	
+🐜	Bullant	True	
+🆗	Okay	True	
+🌡️	Hot Weather	True	
+🇬🇲	Gambian\xa0Flag	True	
+🔟	Keycap Ten	True	
+🇸🇸	flag South Sudan	True	
+🇶🇦	flag Qatar	True	
+👐	Open Hands Sign	True	
+🔉	Reduce Volume	True	
+🇵🇼	Palauan Flag	True	
+🍭	Lollipop	True	
+⚔️	Crossed Swords	True	
+👄	Kissing Lips	True	
+🅱️	Negative Squared Latin Capital Letter B	True	
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	flag Scotland (GB-SCT)	True	
+💈	Barber Shop	True	
+🤹‍♀️	Female Juggler	True	
+🎀	Bow	True	
+📄	Printed Page	True	
+⬅️	Left Arrow	True	
+🇪🇺	European Flag	True	
+✂️	Black Scissors	True	
+🏪	Corner Shop	True	
+🌽	Corn	True	
+📼	Videocassette	True	
+🎥	Hollywood	True	
+🚮	Put Litter in Its Place Symbol	True	
+⏬	Black Down-Pointing Double Triangle	True	
+📼	VCR	True	
+🎱	8 Ball	True	
+🇧🇷	flag Brazil	True	
+🐖	Pig	True	
+✝️	Latin Cross	True	
+📨	Envelope With Lines	True	
+📹	Video Camera	True	
+🐬	Dolphin	True	
+✔️	Check	True	
+🍠	Sweet Potato	True	
+🍎	Red Apple	True	
+😏	Suggestive Smile	True	
+⛓️	Chains	True	
+📈	Positive\xa0Chart	True	
+🙆‍♂️	Man Gesturing OK	True	
+🍩	Donut	True	
+🇪🇬	Egyptian Flag	True	
+📁	Folder	True	
+🎐	Wind Bell	True	
+📍	Pin	True	
+🖤	Black Heart	True	
+📈	Up Pointing Graph	True	
+🍰	Strawberry Shortcake	True	
+🐝	Bumble Bee	True	
+🆗	OK	True	
+🔬	Microscope	True	
+🚼	Baby Symbol	True	
+🇦🇪	Emirati Flag	True	
+🚎	Trolleybus	True	
+📜	Scroll	True	
+🚱	No Water	True	
+⚡	High Voltage Sign	True	
+🍀	Four Leaf Clover	True	
+🌻	Sunflower	True	
+💺	Aeroplane Seat	True	
+🇲🇨	flag Monaco	True	
+🍚	Rice	True	
+🐛	Caterpillar	True	
+🇵🇸	flag Palestinian Territories	True	
+🙍‍♀️	Woman Frowning	True	
+🚥	Horizontal Traffic Light	True	
+🍵	Matcha Green Tea	True	
+🇹🇲	Turkmen Flag	True	
+📝	Memo	True	
+💖	Sparkly Heart	True	
+🈹	割	True	
+🐩	Toy Poodle	True	
+👔	Shirt And Tie	True	
+🇦🇼	Aruban Flag	True	
+🇪🇪	Estonian Flag	True	
+🇬🇪	flag Georgia	True	
+🇹🇼	Taiwanese Flag	True	
+📆	Day Calendar	True	
+😘	Face Throwing a Kiss	True	
+💪	Feats of Strength	True	
+🚗	Automobile	True	
+❄️	Snow	True	
+📎	Clippy	True	
+🈯	Finger Point	True	
+🔍	Search Icon	True	
+🇲🇬	flag Madagascar	True	
+🌍	World	True	
+❎	Cross	True	
+📃	Curly\xa0Page	True	
+🌩️	Cloud With Lightning	True	
+🚇	Train	True	
+☄️	Blue Beam	True	
+🌌	Milky Way	True	
+🇧🇦	flag Bosnia &amp; Herzegovina	True	
+🍬	Lolly	True	
+🍊	Orange	True	
+🚺	Womens\xa0Toilet	True	
+👋	Hello	True	
+💤	Sleeping Symbol	True	
+🇺🇸	Regional Indicator Symbol Letters US	True	
+🇸🇰	Slovak\xa0Flag	True	
+🕓	Clock Four O’Clock	True	
+💮	Well Done Stamp	True	
+😪	Snot Bubble	True	
+🇻🇬	flag British Virgin Islands	True	
+🙉	Monkey Covering Ears	True	
+📋	Clipboard	True	
+🤽‍♀️	Woman Playing Water Polo	True	
+🚮	Put Litter In Trash	True	
+➕	Heavy Plus Sign	True	
+🔠	ABCD	True	
+👵	Older Woman	True	
+ℹ️	Info	True	
+⛳	Golf Flag	True	
+🃏	Joker Card	True	
+🔔	Liberty Bell	True	
+🇱🇹	flag Lithuania	True	
+😽	Kissing Cat Face With Closed Eyes	True	
+👰	Marriage	True	
+🏊‍♂️	Man Swimming	True	
+🏚️	Haunted House	True	
+🇸🇦	flag Saudi Arabia	True	
+➰	Curly Loop	True	
+🤡	Gary the Privacy Clown	True	
+🌵	Desert	True	
+🕶️	Dark Sunglasses	True	
+🍤	Ebi Furai	True	
+🎋	Tanabata	True	
+🌎	World	True	
+💥	Impact	True	
+👞	Brown Shoe	True	
+💎	Diamond	True	
+🏓	Table Tennis Paddle and Ball	True	
+☹️	Megafrown	True	
+📔	Notebook With Decorative Cover	True	
+👮‍♀️	Woman Police Officer	True	
+🅿️	Negative Squared Latin Capital Letter P	True	
+🌾	Ear of Rice	True	
+🍿	Popcorn	True	
+👩‍⚖️	Woman Judge	True	
+🔦	Torch	True	
+👩‍👩‍👦‍👦	Lesbian family	True	
+🤳	Selfie Hand	True	
+📩	Insert In Envelope	True	
+🧀	Cheese	True	
+⚓	Anchor	True	
+👂	Hearing	True	
+🔪	Kitchen Knife	True	
+🇸🇴	Somalian\xa0Flag	True	
+😗	:-*	True	
+😭	Sobbing	True	
+🈸	Monkey	True	
+🇧🇧	Barbadian Flag	True	
+🎱	Magic 8 Ball	True	
+®️	Registered	True	
+🏰	Turrets	True	
+▶️	Black Right-Pointing Triangle	True	
+🇱🇧	flag Lebanon	True	
+👝	Pouch	True	
+☑️	Ballot Box With Check	True	
+⚱️	Vase	True	
+🇩🇬	flag Diego Garcia	True	
+🦅	Eagle	True	
+🇬🇺	Guamanian Flag	True	
+🚣	Rowboat	True	
+🐊	Alligator	True	
+❣️	Heavy Heart Exclamation Mark Ornament	True	
+📅	July 17	True	
+😤	Airing of Grievances	True	
+💡	Idea	True	
+🏌️	Golfer	True	
+🕸️	Cobweb	True	
+😊	Smile	True	
+📛	Name Badge	True	
+⌚	Watch	True	
+🌵	Cactus	True	
+🌍	Earth Globe Europe-Africa	True	
+📢	PA System	True	
+👋	Hand Wave	True	
+🎸	Acoustic\xa0Guitar	True	
+👷‍♂️	Man Construction Worker	True	
+⚖️	Scales	True	
+🐭	Mouse	True	
+🇱🇷	Liberian Flag	True	
+🚣‍♂️	Man Rowing Boat	True	
+🇸🇪	flag Sweden	True	
+🍋	Yellow Fruit	True	
+🚸	School Crossing	True	
+🚢	Cruise	True	
+🤘	Devil Fingers	True	
+🐂	Ox	True	
+👨‍👨‍👧‍👧	Gay family	True	
+👱‍♀️	Blond-Haired Woman	True	
+🔲	Black Square Button	True	
+💿	CD ROM	True	
+😱	Face Screaming in Fear	True	
+📌	Thumb Tack	True	
+⛈️	Thunder Cloud and Rain	True	
+🇹🇬	flag Togo	True	
+🏢	City Building	True	
+💌	Love Letter	True	
+🇸🇻	flag El Salvador	True	
+💊	Drugs	True	
+🖼️	Painting	True	
+🦁	Lion Face	True	
+💿	CD	True	
+💵	Banknote With Dollar Sign	True	
+🌷	Tulip	True	
+🤓	Nerdy	True	
+🎨	Artist Palette	True	
+↪️	Right\xa0Curved Arrow	True	
+🏩	Heart Hospital	True	
+🇸🇷	flag Suriname	True	
+🚖	Front Of Taxi	True	
+😢	Crying	True	
+🎵	Musical Note	True	
+💎	Diamond	True	
+💿	CD	True	
+🙇	Person Bowing Deeply	True	
+📩	Envelope With Downwards Arrow Above	True	
+📹	Video Camera	True	
+👨‍💼	Businessman	True	
+📘	Blue Book	True	
+🤥	Pinocchio	True	
+🍁	Canada	True	
+🤔	Thinker	True	
+👨‍👧‍👦	Father	True	
+🏉	Football	True	
+🙍‍♂️	Man Frowning	True	
+👽	Alien	True	
+🇬🇸	flag South Georgia &amp; South Sandwich Islands	True	
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	Scottish Flag	True	
+💧	Droplet	True	
+🍡	Dango	True	
+🇧🇿	flag Belize	True	
+📴	Mobile Phone Off	True	
+🌫️	Fog	True	
+🇨🇷	flag Costa Rica	True	
+🇧🇼	flag Botswana	True	
+🌸	Cherry Blossom	True	
+🍒	Cherries	True	
+😵	Spiral\xa0Eyes Face	True	
+🇼🇸	flag Samoa	True	
+🇲🇲	flag Burma	True	
+🖌️	Brush	True	
+⌚	Apple Watch	True	
+🗃️	Card File Box	True	
+🎴	Deck Of\xa0Cards	True	
+🐾	Cat Paw Prints	True	
+🐙	Octopus	True	
+😜	Face With Stuck-Out Tongue and Winking Eye	True	
+👨‍👨‍👦	Gay family with child	True	
+🇫🇷	Regional Indicator Symbol Letters FR	True	
+🍠	Yam	True	
+🙇‍♀️	Woman Bowing	True	
+🈂️	Squared Katakana Sa	True	
+🇧🇯	flag Benin	True	
+💿	Optical Disc	True	
+🇪🇸	Spanish Flag	True	
+👩‍🚀	Woman Astronaut	True	
+👵	Grandma	True	
+🎳	Skittles	True	
+😎	Sunglasses	True	
+💷	Pound Note	True	
+🏑	Hockey	True	
+🌁	Fog\xa0Bridge	True	
+🍄	Toadstool	True	
+🇷🇺	Russian Flag	True	
+🔁	Clockwise Rightwards and Leftwards Open Circle Arrows	True	
+🚡	Ropeway	True	
+🇨🇿	flag Czechia (Check Republic)	True	
+🌲	Pine Tree	True	
+🐤	Yellow Bird	True	
+📻	Wireless	True	
+🀄	中	True	
+🇮🇹	flag Italy	True	
+🏗️	Building Construction	True	
+🇨🇳	Regional Indicator Symbol Letters CN	True	
+🇲🇶	Snake Flag of\xa0Martinique	True	
+🥇	Gold Medal	True	
+💯	Hundred Points Symbol	True	
+🍹	Fruit Punch	True	
+💪	Flexed Biceps	True	
+📹	Camcorder	True	
+🐶	Dog Face	True	
+😸	Happy Cat	True	
+🐹	Hamster Face	True	
+🎴	Hwatu	True	
+👬	Gay Men	True	
+🎇	Firework Sparkler	True	
+🇹🇯	flag Tajikistan	True	
+⏰	Alarm	True	
+㊙️	Circled Ideograph Secret	True	
+💵	Dollar Bill	True	
+🎎	Japanese Dolls	True	
+#️⃣	Pound Key	True	
+🍖	Manga Meat	True	
+🦃	Wild Turkey	True	
+🕴️	Hovering Man	True	
+🇪🇹	flag Ethiopia	True	
+🇬🇲	flag Gambia	True	
+🇫🇰	Falklander Flag	True	
+😟	Sad	True	
+🔪	Kitchen Knife	True	
+🇵🇫	flag French Polynesia	True	
+📱	Cell Phone	True	
+🚤	Speedboat	True	
+8️⃣	Keycap Digit Eight	True	
+👨‍👨‍👧	Family: Man, Man, Girl	True	
+🀄	Mahjong	True	
+🎍	Bamboo	True	
+💁	Concierge	True	
+🏓	Ping Pong	True	
+💦	Splashing Water	True	
+👕	Tee Shirt	True	
+🚭	No Smoking Symbol	True	
+🧀	Cheese Wedge	True	
+🌟	Glowing Star	True	
+🎪	Circus	True	
+🇳🇨	New Caledonian Flag	True	
+📆	Desk Calendar	True	
+🐓	Cockerel	True	
+🎙️	Studio Microphone	True	
+🥁	Drum With Drumsticks	True	
+🦇	Batman	True	
+🍈	Rockmelon	True	
+🌞	Smiley Sun	True	
+🇲🇵	Micronesian Flag	True	
+🎛️	Control Knobs	True	
+🥒	Gherkin	True	
+➡️	Right Arrow	True	
+🇲🇱	flag Mali	True	
+🐣	Baby Chicken	True	
+💸	Losing Money	True	
+🇪🇸	Regional Indicator Symbol Letters ES	True	
+🍥	Fish Cake With Swirl Design	True	
+💷	Pound Note	True	
+🚍	Oncoming Bus	True	
+💳	VISA Card	True	
+🐠	Fish	True	
+🇵🇱	flag Poland	True	
+📓	Black And White Book	True	
+🅰️	Negative Squared Latin Capital Letter A	True	
+🎁	Wrapped Present	True	
+🇲🇽	flag Mexico	True	
+⛏️	Pick	True	
+🎑	Mid-Autumn Festival	True	
+◀️	Black Left-Pointing Triangle	True	
+🔮	Crystal Ball	True	
+🐪	Indian Camel	True	
+🐠	Yellow-blue Fish	True	
+🎀	Bow	True	
+🏫	Middle School	True	
+🐑	Lamb	True	
+🍿	Popping Corn	True	
+🤹	Juggler	True	
+🌌	Night Sky	True	
+📩	Down Arrow Envelope	True	
+😲	Astonished Face	True	
+😬	Nervous	True	
+🎧	iPod	True	
+🍞	Loaf Of Bread	True	
+🎀	Pink Bow	True	
+🈚	無	True	
+🍽️	dishes	True	
+🤦	Hitting Head	True	
+🎓	Graduation Cap	True	
+🇮🇩	flag Indonesia	True	
+🚴‍♀️	Woman Biking	True	
+❓	Black Question Mark Ornament	True	
+📽️	Film Projector	True	
+🔱	Trident Emblem	True	
+🇿🇼	flag Zimbabwe	True	
+🚗	Side Of Car	True	
+🔠	Uppercase	True	
+🆘	Squared SOS	True	
+🐀	Rodent	True	
+☢️	International Radiation Symbol	True	
+😌	Pleased	True	
+📠	Fax Machine	True	
+😭	Loudly Crying Face	True	
+🦐	Shrimp	True	
+🐢	Turtle	True	
+🔭	Stargazing	True	
+👠	High-Heeled Shoe	True	
+⚙️	Gear	True	
+👩‍👦‍👦	Family: Woman, Boy, Boy	True	
+🖖	Vulcan Salute	True	
+👩‍💼	CEO	True	
+🥂	Clinking Glasses	True	
+🌐	WWW	True	
+👍	Yes	True	
+✅	right	True	
+🇦🇮	flag Anguilla	True	
+🛋️	Lounge	True	
+💋	Kissing Lips	True	
+🍁	Maple Leaf	True	
+🕺	Disco Dancer	True	
+🏃‍♀️	Woman Running	True	
+🎳	Ten Pin Bowling	True	
+🇷🇺	flag Russia	True	
+📭	Open Mailbox With Lowered Flag	True	
+📝	Memorandum	True	
+✈️	Aeroplane	True	
+🇳🇴	flag Norway	True	
+🇺🇸	flag United States	True	
+🚤	Motorboat	True	
+🇻🇦	Vanticanien Flag	True	
+🔢	1234	True	
+🇻🇬	British Virgin Islander Flag	True	
+💰	Money Bag	True	
+🇲🇦	Moroccan Flag	True	
+🐥	Baby Chick	True	
+🔕	Bell With Cancellation Stroke	True	
+🐈	Domestic Cat	True	
+🇷🇸	flag Serbia	True	
+🕸️	Spider Web	True	
+👂	Listening	True	
+🚩	Red Flag	True	
+🌹	Red Flower	True	
+🤾‍♂️	Man Playing Handball	True	
+💶	€100 Note	True	
+👓	Glasses	True	
+🔸	Small Orange Diamond	True	
+🆎	Blood Type AB	True	
+📧	E-Mail Symbol	True	
+💤	Bedtime	True	
+🍆	Purple Vegetable	True	
+🚳	No Bikes Sign	True	
+🦉	Owl	True	
+🍎	Red Delicious Apple	True	
+🇱🇾	flag Libya	True	
+👼	Putto	True	
+😔	Sad	True	
+😣	Scrunched Eyes	True	
+💔	Heart Broken	True	
+🇨🇲	Cameroonian Flag	True	
+🇯🇪	Jersey Flag	True	
+🌚	Dark Moon Face	True	
+🌞	Sun With Face	True	
+😙	Whistle	True	
+🛥️	Motor Boat	True	
+👁️	Eye	True	
+🔈	Speaker	True	
+🚼	Baby Change Station	True	
+🇵🇫	French Polynesian Flag	True	
+🗽	New York	True	
+🚴	Cyclist	True	
+📍	Map Pin	True	
+🦁	Timid Lion	True	
+📈	Positive\xa0Chart	True	
+📻	Digital Radio	True	
+👿	Devil Horns	True	
+🕴️	Hovering Man	True	
+💥	Bang	True	
+🐺	Wolf Face	True	
+🗼	Eiffel Tower	True	
+🔽	Down-Pointing Small Red Triangle	True	
+📬	Open Mailbox With Raised Flag	True	
+♥️	Card With Heart	True	
+🏆	Winners Trophy	True	
+💵	Dollar Bill	True	
+🍰	Cake	True	
+🌉	Bridge at Night	True	
+😰	Face With Open Mouth and Cold Sweat	True	
+🍞	Bread	True	
+👩‍👧‍👧	Mother	True	
+🚡	Gondola	True	
+🇬🇧	flag United Kingdom	True	
+🇧🇭	flag Bahrain	True	
+🇵🇰	flag Pakistan	True	
+🐩	Miniature Poodle	True	
+🛀	Hot Bath	True	
+📿	Prayer Beads	True	
+🇬🇾	Guyanese Flag	True	
+🔠	Input Symbol for Latin Capital Letters	True	
+🍃	Green Leaves	True	
+🚺	Womens Symbol	True	
+🇵🇪	Peruvian Flag	True	
+▶️	Right\xa0Triangle	True	
+🏮	Izakaya Lantern	True	
+🐨	Koala Bear	True	
+💥	Explode	True	
+😒	Unamused Face	True	
+💁‍♀️	Woman Tipping Hand	True	
+⏰	Clock	True	
+👳‍♀️	Woman Wearing Turban	True	
+🏣	Japan Post	True	
+💳	Credit Card	True	
+🇩🇰	flag Denmark	True	
+🛩️	Small Airplane	True	
+🇸🇹	flag São Tomé &amp; Príncipe	True	
+🇵🇼	flag Palau	True	
+🔎	Search Icon	True	
+🌀	Swirl	True	
+😯	Surprise	True	
+🇹🇲	flag Turkmenistan	True	
+☢️	Radioactive Sign	True	
+🗿	Human Rock Carving	True	
+🐾	Dog Paw Prints	True	
+🤑	Money Face	True	
+✴️	Eight Pointed Black Star	True	
+🇪🇦	flag Ceuta &amp; Melilla	True	
+🇻🇨	flag St. Vincent &amp; Grenadines	True	
+👩‍❤️‍💋‍👩	Kiss: Woman, Woman	True	
+🚤	Powerboat	True	
+🚀	Rocket	True	
+🇺🇬	flag Uganda	True	
+😼	Cat Face With Wry Smile	True	
+🥂	drink	True	
+🛎️	Bellhop Bell	True	
+🇬🇩	Grenadian Flag	True	
+☣️	Biohazard Sign	True	
+🌧️	Cloud With Rain	True	
+⌚	Watch	True	
+🚯	Do Not Litter Symbol	True	
+🎤	Singing	True	
+👩‍💼	Businesswoman	True	
+🍔	Hamburger	True	
+✨	Sparkles	True	
+🎀	Ribbon	True	
+👿	Purple Goblin	True	
+👷	Builder	True	
+👫	Holding Hands	True	
+✒️	✒\xa0Fountain Pen	True	
+👼	Cupid	True	
+👰	Bride With Veil	True	
+🗡️	Knife Weapon	True	
+ⓜ️	Circled Latin Capital Letter M	True	
+🎢	Roller Coaster	True	
+🔤	ABC	True	
+➿	Double Curly Loop	True	
+🈺	Squared CJK Unified Ideograph-55B6	True	
+🐪	One Bump Camel	True	
+📟	Bleeper	True	
+✉️	Envelope	True	
+👼	Angel	True	
+🎩	Top Hat	True	
+🍺	Beer Mug	True	
+👫	Man and Woman Holding Hands	True	
+🙎	Blank Look	True	
+🎶	Singing	True	
+💻	Personal Computer	True	
+⛳	Golf	True	
+📁	File Folder	True	
+🕙	Clock Ten O’Clock	True	
+⛽	Gas Pump	True	
+🎒	Bag	True	
+📤	Outbox Tray	True	
+🇬🇫	flag French Guiana	True	
+😄	Happy Face	True	
+🎏	Wind Socks	True	
+⚱️	Funeral Urn	True	
+🗿	Moai	True	
+💽	Minidisc	True	
+💈	Barbers Stripes	True	
+🇱🇻	flag Latvia	True	
+🇱🇺	flag Luxembourg	True	
+👿	Sad Devil	True	
+💻	Notebook	True	
+🏳️‍🌈	Rainbow Flag	True	
+ℹ️	Tourist Information	True	
+🗳️	Vote Box	True	
+👩‍👦	Family: Woman, Boy	True	
+🖼️	Gallery	True	
+6️⃣	Keycap Digit Six	True	
+🐸	Pepe	True	
+🍢	Skewer	True	
+🌱	Seedling	True	
+🥒	Cucumber	True	
+🐾	Puppy Paw Prints	True	
+🗑️	Trash Can	True	
+🎈	Party	True	
+📆	Day Calendar	True	
+👡	Sandals	True	
+🔫	Pistol	True	
+🤢	Green\xa0Face	True	
+🕚	Clock Eleven O’Clock	True	
+💴	¥1000 Note	True	
+〽️	Part Alternation Mark	True	
+🐧	Penguin	True	
+🔖	Bookmark	True	
+🍨	Ice Cream	True	
+🔌	AC Adaptor	True	
+🎾	Tennis Racquet and Ball	True	
+🈶	Own	True	
+🌻	Flower	True	
+🖼️	Picture Frame	True	
+🐘	Elephant	True	
+🔎	Magnifying Glass	True	
+🇲🇾	flag Malaysia	True	
+🏫	Elementary School	True	
+💤	Boring	True	
+📧	Email	True	
+🇵🇦	flag Panama	True	
+🍌	Banana	True	
+🛋️	Couch and Lamp	True	
+🇬🇶	flag Equatorial Guinea	True	
+➡️	Black Rightwards Arrow	True	
+↪️	Email Forward	True	
+🛬	Airplane Arriving	True	
+☀️	Sunshine	True	
+💠	Diamond	True	
+🇦🇴	flag Angola	True	
+🏩	Love Hotel	True	
+🚥	Traffic Light	True	
+🌿	Plant	True	
+🚔	🚓 Front\xa0Of Police Car	True	
+🎥	Film Camera	True	
+🌊	Ocean Wave	True	
+🚛	Truck	True	
+🇻🇮	US Virgin Islander Flag	True	
+✒️	✒\xa0Fountain Pen	True	
+📊	Bar Chart	True	
+😴	Snoring	True	
+📌	Thumb Tack	True	
+🔒	Lock	True	
+😙	Kissy	True	
+💢	Anger Sign	True	
+🐪	Arabian Camel	True	
+🔖	Price Tag	True	
+🍯	Honey Pot	True	
+🍶	drink	True	
+🍇	Grape	True	
+📺	Television	True	
+💜	Purple Heart	True	
+🏮	Japanese Lantern	True	
+😬	Awkward	True	
+🎱	Snooker	True	
+😻	Heart Eyes Cat	True	
+◼️	Black Medium Square	True	
+😚	Kissing Face With Closed Eyes	True	
+🍟	French Fries	True	
+📷	Camera	True	
+📝	Note	True	
+👩‍👧‍👧	Family: Woman, Girl, Girl	True	
+🎡	Observation Wheel	True	
+🇲🇨	Monégasque Flag	True	
+🇳🇬	Nigerian Flag	True	
+📢	Public Address Loudspeaker	True	
+🗳️	Ballot Box With Ballot	True	
+🚪	Front Door	True	
+📚	Books	True	
+😛	Face With Stuck-Out Tongue	True	
+💝	Gift Heart	True	
+🌱	Sprouting	True	
+😨	Scared	True	
+🇧🇸	Bahamian Flag	True	
+🔐	Lock And Key	True	
+🇬🇷	flag Greece	True	
+🍥	Pink Swirl	True	
+😙	Whistling	True	
+😔	Sadface	True	
+😡	Angry Face	True	
+🇲🇹	Maltese Flag	True	
+🎥	Movie	True	
+👨‍⚕️	Male Nurse	True	
+💛	#1 BF Snapchat	True	
+🎴	Playing Cards	True	
+⛩️	Kami-no-michi	True	
+🇩🇴	flag Dominican Republic	True	
+🐜	Black Ant	True	
+💇‍♀️	Woman Getting Haircut	True	
+📢	Announcement	True	
+📿	Prayer Beads	True	
+👆	Up Pointing Backhand Index	True	
+🔍	Left-Pointing Magnifying Glass	True	
+🉑	Accept	True	
+😳	Embarrassed	True	
+👩‍🔬	Woman Scientist	True	
+💘	Lovestruck	True	
+💐	Bouquet	True	
+🎄	Xmas\xa0Tree	True	
+🔫	Gun	True	
+🇸🇭	flag St. Helena	True	
+🐅	Tiger	True	
+🏷️	Label	True	
+🎏	Wind Socks	True	
+🚔	Oncoming Police Car	True	
+🇾🇪	Yemeni\xa0Flag	True	
+😊	Smiling Face With Smiling Eyes	True	
+💡	Electric Light Bulb	True	
+↔️	Horizontal\xa0Arrows	True	
+🏦	Bank	True	
+😃	Grinning Face	True	
+🎖️	Military Decoration	True	
+😚	Kiss Face	True	
+📩	Insert In Envelope	True	
+🏠	House Building	True	
+🕍	Jewish	True	
+📄	Page Facing Up	True	
+🏥	Red Cross	True	
+🚵	Mountain Bicyclist	True	
+🌠	Shooting Star	True	
+🙋‍♀️	Woman Raising Hand	True	
+👉	Pointing Right	True	
+🔩	Nut and Bolt	True	
+💧	Water Drop	True	
+🇮🇹	Italian Flag	True	
+❌	Cross Mark	True	
+🕉️	Om Symbol	True	
+🇦🇷	flag Argentina	True	
+ℹ️	Information Source	True	
+👟	Trainer	True	
+🚃	Railroad Car	True	
+🕯️	Candle	True	
+🐫	Bactrian Camel	True	
+😣	Persevering Face	True	
+🌗	Last Quarter Moon Symbol	True	
+📖	Novel	True	
+💷	Pound Note	True	
+🇸🇿	flag Swaziland	True	
+🔪	Butchers Knife	True	
+🛫	Airplane Departure	True	
+🌍	Globe	True	
+🖌️	Brush	True	
+👠	High Heels	True	
+🎵	Beamed Pair Of Quavers	True	
+🥂	Cheers	True	
+🔗	Hyperlink	True	
+🚢	Ship	True	
+🇪🇭	Western Saharan Flag	True	
+🔋	Battery	True	
+🇫🇲	Micronesian Flag	True	
+🇧🇲	Bermudan\xa0Flag	True	
+📍	Dropped Pin	True	
+🌍	Planet	True	
+🏬	Shops	True	
+💁	Bellhop	True	
+🌶️	Chili Pepper	True	
+🐿️	Chipmunk	True	
+👳	Man With Turban	True	
+😗	Kissing Face	True	
+📁	Manilla Folder	True	
+🔮	Gypsy	True	
+🐴	Horse Head	True	
+☺️	Grinning Face	True	
+🇦🇬	flag Antigua &amp; Barbuda	True	
+🌰	Chestnut	True	
+🇨🇵	flag Clipperton Island	True	
+🍎	Gala Apple	True	
+🙀	Scared Cat	True	
+🍚	Bowl Of Rice	True	
+✉️	Envelope	True	
+🤛	Left Fist Bump	True	
+🌔	Waxing Gibbous Moon Symbol	True	
+🤕	Clumsy	True	
+⬆️	Upwards Black Arrow	True	
+🎎	Hinamatsuri	True	
+🇧🇭	Bahrainian Flag	True	
+👩‍🚀	Woman Cosmonaut	True	
+😺	Smiling Cat Face With Open Mouth	True	
+🐨	Australia	True	
+🏥	Medical	True	
+♨️	Steam	True	
+✈️	Airplane	True	
+🏙️	Cityscape	True	
+🇹🇿	Tanzanian Flag	True	
+🔨	Handyman	True	
+🏫	High School	True	
+🌁	Foggy City	True	
+🌟	Shining Star	True	
+🕺	Man Dancing	True	
+🐬	Seaworld™	True	
+📻	Radio	True	
+🏀	Basketball	True	
+💦	Plewds	True	
+🚽	Loo	True	
+🐔	Hen	True	
+🎰	Casino	True	
+🛂	Border Control	True	
+👷	Safety Helmet	True	
+💶	Euro	True	
+🏳️‍🌈	Rainbow Flag	True	
+💷	Banknote With Pound Sign	True	
+♊	Gemini	True	
+🎎	Dolls	True	
+👨‍❤️‍💋‍👨	Kiss Man, Man	True	
+🍖	Meat on Bone	True	
+🙍	Sad Person	True	
+🖼️	Painting	True	
+🤓	Nerd Face	True	
+🐽	Pig Snout	True	
+🔓	Unlock	True	
+🏯	Japanese Castle	True	
+🚒	Fire Engine	True	
+🏥	Emergency Room	True	
+📠	Fax	True	
+🍲	Pot of Food	True	
+👩‍🔧	Woman Mechanic	True	
+💛	Gold Heart	True	
+👨‍👧‍👧	Family: Man, Girl, Girl	True	
+🙀	Weary Cat Face	True	
+🤹	Juggling	True	
+📯	French Horn	True	
+🌁	Foggy	True	
+📟	Pager	True	
+🚫	Red Circle Crossed	True	
+🇧🇸	flag Bahamas	True	
+😃	Smiling Face With Open Mouth	True	
+🔌	Power Plug	True	
+🌺	Hibiscus	True	
+🤞	Fingers Crossed	True	
+🎈	Red Balloon	True	
+🙋	Hand Up	True	
+🌾	Farming	True	
+🎁	Christmas Present	True	
+🇭🇹	flag Haiti	True	
+🔚	End With Leftwards Arrow Above	True	
+🍯	Honey	True	
+🗾	Map Of Japan	True	
+🔂	Loop Once Symbol	True	
+✏️	✏ Lead Pencil	True	
+🎦	Cinema	True	
+👩‍🍳	Woman Cook	True	
+🍳	Fried Egg	True	
+🌲	Tree	True	
+🚆	Electric Train	True	
+🇬🇭	Ghanaian Flag	True	
+💗	Multiple Heart	True	
+🇲🇩	flag Moldova	True	
+👮	Police	True	
+👨‍⚖️	Man Judge	True	
+♐	Sagittarius	True	
+🍺	Beer Stein	True	
+🎓	Mortar Board	True	
+🆖	Blooper	True	
+🚰	Potable Water Symbol	True	
+🎨	Art	True	
+©️	Copyright	True	
+🔎	Magnifier	True	
+😆	Closed-Eyes Smile	True	
+🏴‍☠️	Pirate Flag	True	
+🚔	🚓\xa0Cop Car	True	
+↕️	Up Down Arrow	True	
+🚛	Green Truck	True	
+📷	Digital Camera	True	
+🎺	Jazz	True	
+😀	Smiley Face	True	
+#️⃣	Hash Key	True	
+🇲🇦	flag Morocco	True	
+🚰	Water Tap	True	
+🍹	Tiki Drink	True	
+👂	Ears	True	
+🔒	Closed Lock	True	
+🇪🇨	Ecuadorian Flag	True	
+🐦	Bird	True	
+😞	Disappointed Face	True	
+🥂	Champagne Glasses	True	
+🈳	空	True	
+👀	Eyes	True	
+🕤	Clock Nine-Thirty	True	
+🐽	Pig Nose	True	
+📫	Closed Mailbox With Raised Flag	True	
+🇫🇴	flag Faroe Islands	True	
+👩‍❤️‍💋‍👩	Lesbian kiss	True	
+🎫	World Tour TIcket	True	
+🔪	Butchers Knife	True	
+💍	Diamond Ring	True	
+😣	Helpless Face	True	
+☎️	Telephone	True	
+🍨	Dessert	True	
+🍜	Noodles	True	
+😇	Halo	True	
+☎️	Rotary Phone	True	
+🏰	Castle	True	
+👮‍♂️	Man Police Officer	True	
+🖌️	Lower Left Paintbrush	True	
+🤵	Man in Tuxedo	True	
+💑	Couple With Heart	True	
+🖖	Star Trek	True	
+♿	Wheelchair Symbol	True	
+🎾	Tennis Racket	True	
+🐚	Shell	True	
+🕉️	Aumkara	True	
+✋	High Five	True	
+📈	Chart With Upwards Trend	True	
+🚻	Toilet Sign	True	
+🕰️	Mantelpiece Clock	True	
+📻	Wireless	True	
+➗	Heavy Division Sign	True	
+🇬🇧	flag Great Britain	True	
+🙊	Speak-No-Evil Monkey	True	
+🔝	Top	True	
+📱	Mobile Phone	True	
+👴	Old Man	True	
+👥	Busts in Silhouette	True	
+👱‍♂️	Blond-Haired Man	True	
+👍	Like	True	
+📀	DVD Video	True	
+📿	Rosary Beads	True	
+🐀	Grey Rat	True	
+🇲🇿	Mozambican Flag	True	
+💫	Dizzy Symbol	True	
+🚴‍♂️	Man Biking	True	
+🎐	Wind Bell	True	
+😎	Cool	True	
+🇨🇴	Colombian Flag	True	
+🇸🇧	Solomon Islander\xa0Flag	True	
+😀	Grinning Face	True	
+🎶	Multiple Musical Notes	True	
+🇲🇿	flag Mozambique	True	
+🔏	Lock With Ink Pen	True	
+😌	Content	True	
+🦊	Fox	True	
+🌃	Starry Night	True	
+⏪	Rewind	True	
+🍔	Burger	True	
+💬	Speech Bubble	True	
+🕎	Candelabrum	True	
+👌	OK Hand Sign	True	
+📏	Straight Ruler	True	
+🇺🇦	Ukrainian Flag	True	
+🌒	Waxing Crescent Moon Symbol	True	
+🏄	Surf	True	
+🥜	Peanuts	True	
+🚨	Police Siren	True	
+🍮	Custard	True	
+🏳️‍🌈	Pride Flag	True	
+😋	Hungry	True	
+😻	Loving\xa0Cat	True	
+🎮	Video Game	True	
+🇭🇳	Honduran Flag	True	
+🇦🇺	flag Australia	True	
+👃	Smelling	True	
+🚣	Rowing	True	
+🔬	Magnify	True	
+🏅	Sports Medal	True	
+☎️	Telephone	True	
+🐸	Kermit	True	
+🖤	Dark Heart	True	
+🏨	Hotel	True	
+🍮	Pudding	True	
+🕎	Menorah	True	
+🚾	WC	True	
+💳	VISA Card	True	
+🖱️	Three Button Mouse	True	
+🔦	Electric Torch	True	
+🤔	Throwing Shade	True	
+👰	Wedding	True	
+🇨🇩	flag Congo - Kinshasa	True	
+💷	Twenty Quid Note	True	
+🐡	Fugu	True	
+🌞	Sunface	True	
+🎟️	Admission Tickets	True	
+🥖	Baguette Bread	True	
+🏷️	Label	True	
+🤕	Face With Head-Bandage	True	
+🖕	Rude Finger	True	
+🐖	Sow	True	
+🌍	Earth	True	
+🔓	Open Lock	True	
+👘	Japanese Dress	True	
+🍓	Strawberries	True	
+🚲	Bike	True	
+💾	Floppy Disk	True	
+💓	Heartbeat	True	
+🚹	Male Restroom	True	
+🎒	Backpack	True	
+🚶‍♀️	Woman Walking	True	
+🌀	Spiral	True	
+☺️	Happy Face	True	
+🛐	Religious Building	True	
+😡	Pouting Face	True	
+🐔	Chicken	True	
+🗻	Snow-capped Mountain	True	
+👩‍👧	Family: Woman, Girl	True	
+📍	Red Pin	True	
+👨‍🔬	Man Scientist	True	
+🐫	Chinese Camel	True	
+ℹ️	Lowercase I	True	
+🚧	Black And Yellow Striped Sign	True	
+⌚	Apple Watch	True	
+🇨🇺	Cuban Flag	True	
+👩‍❤️‍👩	Lesbian woman	True	
+🏮	Asian Lantern	True	
+📌	Pushpin	True	
+💝	Gift Box	True	
+🉐	Circled Ideograph Advantage	True	
+👮	Cop	True	
+🛑	Stop Sign	True	
+🇬🇱	Greenlandic Flag	True	
+💇	Haircut	True	
+💶	€100 Note	True	
+🔵	Large Blue Circle	True	
+📲	Pointing To Phone	True	
+🇲🇽	Mexican Flag	True	
+🚆	Train	True	
+💁	Hair Flick	True	
+🕖	Clock Seven O’Clock	True	
+💌	Love Note	True	
+🌁	Fog	True	
+🔌	Power Plug	True	
+👩‍💻	Woman Technologist	True	
+👫	Heterosexual Couple	True	
+🐪	Camel	True	
+🇯🇴	Jordanian Flag	True	
+📔	Notebook With Decorative Cover	True	
+🔰	Japanese Symbol for Beginner	True	
+🤵	Groom	True	
+🤼‍♀️	Women Wrestling	True	
+🏋️‍♀️	Woman Lifting Weights	True	
+🇸🇴	flag Somalia	True	
+📆	Tear-Off Calendar	True	
+🚪	Front Door	True	
+🆓	Free	True	
+🌴	Tropical Island	True	
+🚺	Female Restroom	True	
+#️⃣	Hashtag	True	
+🇷🇴	Romanian Flag	True	
+🍋	Lemonade	True	
+🍷	Alcohol	True	
+👧	Girl	True	
+⌚	Timepiece	True	
+🎮	Xbox	True	
+🙂	Slightly Smiling Face	True	
+🍚	Cooked Rice	True	
+🎱	Billiards	True	
+🇽🇰	flag Kosovo	True	
+👨‍👨‍👧	Gay family with child	True	
+🚶	Walker	True	
+💞	Two Hearts	True	
+🎊	Confetti	True	
+🏁	Checkered Flag	True	
+🇽🇰	Kosovar Flag	True	
+🔎	Right-Pointing Magnifying Glass	True	
+🇲🇻	Maldivian Flag	True	
+🐏	Ram	True	
+🇵🇳	flag Pitcairn Islands	True	
+💳	Diners Club	True	
+👀	Shifty Eyes	True	
+🌐	World Wide Web	True	
+🇲🇱	Malian Flag	True	
+📕	Closed Book	True	
+🔬	Science	True	
+😒	Unimpressed	True	
+♻️	Recycle Logo	True	
+🐫	Two Bump Camel	True	
+🔦	Flashlight	True	
+🎪	Big Top	True	
+📶	Stairs	True	
+🐆	Leopard	True	
+🚫	No Entry Sign	True	
+🍛	Curry and Rice	True	
+🐌	Slug	True	
+🚻	Restroom	True	
+📳	Silent Mode	True	
+❌	Cross	True	
+💾	Floppy Disk	True	
+👢	Womans Boots	True	
+🔺	Up-Pointing Red Triangle	True	
+📇	Rolodex	True	
+🔴	Large Red Circle	True	
+🖕	Middle Finger	True	
+🇮🇱	Israeli Flag	True	
+🙌	Festivus Miracle	True	
+💔	broken love	True	
+🍷	Red Wine	True	
+👟	Sneaker	True	
+👩‍👧	Mother	True	
+📍	Round Pushpin	True	
+🔖	Price Tag	True	
+🚂	Steam Locomotive	True	
+💓	Beating Heart	True	
+🇵🇹	Portugese Flag	True	
+🤹‍♂️	Male Juggler	True	
+👖	Denim	True	
+❤️	Red Heart	True	
+🎯	Archery	True	
+🎎	Dolls	True	
+🇧🇶	flag Caribbean Netherlands	True	
+🎎	Imperial Dolls	True	
+📱	iPhone	True	
+🚌	School Bus	True	
+🇳🇵	flag Nepal	True	
+🍀	Lucky	True	
+👷‍♀️	Woman Construction Worker	True	
+🇷🇼	Rwandan Flag	True	
+⛹️‍♂️	Man Bouncing Ball	True	
+📜	Degree	True	
+📞	Handset	True	
+🍏	Granny Smith Apple	True	
+🇨🇭	Swiss Flag	True	
+👩‍👦‍👦	Only parent	True	
+🍈	Muskmelon	True	
+🇪🇭	flag Western Sahara	True	
+🌻	Yellow Flower	True	
+🍷	Wine Glass	True	
+📯	Bugle	True	
+🌳	Deciduous Tree	True	
+🎅	Father Christmas	True	
+😊	^^	True	
+🐛	Bug	True	
+🇧🇧	flag Barbados	True	
+👱	Blond	True	
+🐚	Beach	True	
+😲	Gasping Face	True	
+🎈	Balloon	True	
+🗄️	File Cabinet	True	
+🥓	Bacon	True	
+🚻	Bathroom Sign	True	
+🌬️	Mother Nature	True	
+🍳	Frying Pan	True	
+🐈	Housecat	True	
+⛳	Flag in Hole	True	
+🖥️	PC Tower	True	
+🚉	Station	True	
+🏎️	F1	True	
+🗺️	World Map	True	
+🇮🇲	flag Isle of Man	True	
+🎠	Carousel Horse	True	
+🚒	Fire Truck	True	
+💽	Minidisc	True	
+🥃	drink	True	
+🎡	Big Wheel	True	
+↔️	Sideways Arrows	True	
+😕	Nonplussed	True	
+📺	TV	True	
+🛀	Hot Bath	True	
+😸	Grinning Cat Face With Smiling Eyes	True	
+🏋️	Weight Lifter	True	
+👭	Lesbian Couple	True	
+🏐	Volleyball	True	
+🎏	Koinobori	True	
+👨‍💻	Man Technologist	True	
+💨	Vaping	True	
+🚴	Bicycle	True	
+⛱️	Umbrella on Ground	True	
+🥕	Carrot	True	
+🖼️	Frame With Picture	True	
+📽️	Film Projector	True	
+🍾	Sparkling Wine	True	
+↗️	Diagonal Up-Right Arrow	True	
+💈	Hairdresser	True	
+🍊	Mandarin	True	
+😉	Wink	True	
+⛺	Tent	True	
+🏦	Bank Branch	True	
+🔶	Large Orange Diamond	True	
+🎻	Violin	True	
+🙊	Iwazaru	True	
+🔦	Torch	True	
+😓	Sad Sweat Face	True	
+🐼	Panda Face	True	
+☃️	Snowman	True	
+🗑️	Waste Paper Basket	True	
+🚚	Delivery Truck	True	
+💢	Anger Symbol	True	
+🔮	Shew Stone	True	
+🇱🇸	Basotho Flag	True	
+♦️	Diamonds	True	
+❄️	Snowflake	True	
+🏄‍♂️	Man Surfing	True	
+📂	Open File Folder	True	
+🚅	High-Speed Train With Bullet Nose	True	
+📞	Phone	True	
+↙️	South West Arrow	True	
+😶	Silence	True	
+🐓	Cock	True	
+🙀	Screaming Cat	True	
+🌈	Primary Rainbow	True	
+🃏	Joker	True	
+👳	Sikh	True	
+⚛️	Atom Symbol	True	
+☦️	Orthodox Cross	True	
+😇	Angel	True	
+✏️	✏ Lead Pencil	True	
+😷	Surgical Mask	True	
+⚓	Admiralty Pattern Anchor	True	
+👔	Necktie	True	
+🛃	Customs	True	
+🇪🇷	Eritrean Flag	True	
+♨️	Hot Springs	True	
+🐑	Sheep	True	
+⛵	Yacht	True	
+🔄	Anticlockwise Downwards and Upwards Open Circle Arrows	True	
+🏘️	House Buildings	True	
+🇧🇩	flag Bangladesh	True	
+😲	Shocked Face	True	
+🦏	Rhinoceros	True	
+🇹🇼	flag Taiwan	True	
+💏	Man And Woman Kiss	True	
+💘	Cupid Arrow	True	
+🔛	On	True	
+💄	Makeup	True	
+👏	Round Of Applause	True	
+4️⃣	Keycap Digit Four	True	
+🕥	Clock Ten-Thirty	True	
+🥔	Baked Potato	True	
+☁️	Cloud	True	
+🔔	Bell	True	
+🇨🇷	Costa Rican Flag	True	
+🕸️	Web	True	
+🐠	Tropical Fish	True	
+👾	Space Invader	True	
+🙆	Ballerina	True	
+🍸	Alcohol	True	
+🐄	Dairy Cow	True	
+🖥️	iMac	True	
+🖐️	Five Hand	True	
+🔭	Telescope	True	
+💳	Mastercard	True	
+🕴️	Man in Business Suit Levitating	True	
+🐍	Green Snake	True	
+🎬	Director	True	
+📓	Black And White Book	True	
+🇲🇰	flag Macedonia	True	
+😕	:S	True	
+👽	Extraterrestrial Alien	True	
+🗑️	Rubbish Bin	True	
+😘	Blowing Kiss	True	
+🦄	Unicorn Face	True	
+💪	Strong	True	
+🌦️	White Sun Behind Cloud With Rain	True	
+🕛	Clock Twelve O’Clock	True	
+📉	📈 Negative\xa0Chart	True	
+🚣	Boat With Paddles	True	
+🙆‍♀️	Woman Gesturing OK	True	
+🍒	Wild Cherry	True	
+🐁	Dormouse	True	
+🍤	Fried Shrimp	True	
+🇪🇨	flag Ecuador	True	
+🇱🇰	flag Sri Lanka	True	
+🚬	Smoking Symbol	True	
+🔇	Speaker With Cancellation Stroke	True	
+🏂	Snowboard	True	
+👩‍💻	Female Blogger	True	
+🇱🇮	Liechtensteiner Flag	True	
+🇰🇬	flag Kyrgyzstan	True	
+💴	Banknote With Yen Sign	True	
+🌏	Globe	True	
+🍺	Lager	True	
+😂	LOL	True	
+🎎	Hinamatsuri	True	
+✔️	Heavy Check Mark	True	
+🐡	Blowfish	True	
+🐻	Bear Face	True	
+🇩🇴	Dom Rep Flag	True	
+↙️	Diagonal Down-Left Arrow	True	
+🇭🇷	Croatian Flag	True	
+🇨🇿	Czech Flag	True	
+🚅	Bullet Train	True	
+💒	Wedding	True	
+👒	Womans Hat	True	
+♈	Aries	True	
+🏄	Surfing	True	
+🏪	7-Eleven®	True	
+😩	Wailing	True	
+🇹🇳	flag Tunisia	True	
+🏟️	Stadium	True	
+🔕	Ringer Disabled	True	
+🕢	Clock Seven-Thirty	True	
+☕	Coffee	True	
+🔌	AC Adaptor	True	
+🙊	Monkey Covering Mouth	True	
+👩‍💼	Woman Office Worker	True	
+🏕️	Campsite	True	
+😫	Exhausted	True	
+😶	Silent	True	
+💷	Banknote With Pound Sign	True	
+🔌	Power Cable	True	
+🇪🇷	flag Eritrea	True	
+🏊	Swimmer	True	
+💵	American Dollar	True	
+💟	Heart Decoration	True	
+🤴	Prince	True	
+💿	Optical Disc	True	
+📳	Phone Heart	True	
+👨‍👨‍👧‍👦	Gay family	True	
+🏀	Basketball and Hoop	True	
+⌛	Hourglass	True	
+🈲	禁	True	
+😏	Sexual Face	True	
+🇲🇴	Macanese\xa0Flag	True	
+🎯	Darts	True	
+👹	Scary Face	True	
+💣	Bomb	True	
+🍸	drink	True	
+🇦🇨	flag Ascension Island	True	
+🔜	Soon With Rightwards Arrow Above	True	
+⚾	Baseball	True	
+📐	Triangle Ruler	True	
+🦏	Rhino	True	
+🏹	Archery	True	
+🎠	Merry Go Round	True	
+🕎	Menorah With Nine Branches	True	
+📲	Phone Call	True	
+🤦	Picard	True	
+🤜	Right Fist Bump	True	
+🎥	Movie	True	
+💂‍♂️	Man Guard	True	
+👭	Girls Holding Hands	True	
+✅	White Heavy Check Mark	True	
+🔅	Decrease Brightness	True	
+🚽	Bathroom	True	
+🎉	Party Popper	True	
+🎥	Film Camera	True	
+🚫	No	True	
+🇲🇸	Montserratian Flag	True	
+⛺	Camping Tent	True	
+😜	Crazy	True	
+💕	Two Hearts	True	
+🇩🇯	Djibouti Flag	True	
+🇱🇸	flag Lesotho	True	
+🎷	Jazz	True	
+🇧🇷	Brazilian Flag	True	
+🐰	Rabbit Face	True	
+🏞️	National Park	True	
+🇦🇫	flag Afghanistan	True	
+🇸🇾	Syrian Flag	True	
+🇱🇺	Luxembourger Flag	True	
+📄	Page Facing Up	True	
+🇰🇪	flag Kenya	True	
+👨‍💻	Male Blogger	True	
+💾	Disk	True	
+👤	Shadow	True	
+🖼️	Mona Lisa	True	
+🍑	Butt	True	
+🇸🇲	Sammarinese Flag	True	
+💳	AMEX	True	
+🙅‍♂️	Man Gesturing No	True	
+😳	:$	True	
+💚	Jealous Heart	True	
+😷	Mask Face	True	
+🚕	Taxicab	True	
+📘	Blue Book	True	
+🎒	School Satchel	True	
+🏤	European Post Office	True	
+🇨🇲	flag Cameroon	True	
+💑	Loving Couple	True	
+🛁	Bathtub	True	
+🇿🇦	flag South Africa	True	
+🅰️	Blood Type A	True	
+🔪	Knife	True	
+🇬🇧	British Flag	True	
+↩️	Leftwards Arrow With Hook	True	
+💉	Vaccination	True	
+🇵🇲	flag St. Pierre &amp; Miquelon	True	
+🇹🇻	flag Tuvalu	True	
+🇲🇲	flag Myanmar (Burma)	True	
+🏹	Bow and Arrow	True	
+🥀	Wilted Flower	True	
+⌨️	Keyboard	True	
+💻	Laptop	True	
+◽	White Medium Small Square	True	
+⚓	Fisherman	True	
+🇹🇭	flag Thailand	True	
+☔	Unofficial Safe Sex	True	
+🏒	Ice Hockey Stick and Puck	True	
+🛵	Motor Cycle	True	
+🐭	Mouse Face	True	
+🐚	Spiral Shell	True	
+😘	Kissing	True	
+♓	Pisces	True	
+👨‍🎤	Bowie	True	
+🇳🇮	flag Nicaragua	True	
+🔏	Lock\xa0With Fountain Pen	True	
+☑️	Check Mark In Box	True	
+📏	Straight Ruler	True	
+👃	Sniffing	True	
+🇿🇼	Zimbabwean\xa0Flag	True	
+🎐	Wind Chime	True	
+🦂	Scorpion	True	
+↖️	North West Arrow	True	
+🌃	Night With Stars	True	
+🚛	Articulated Lorry	True	
+😳	Shame	True	
+🔊	Increase Volume	True	
+🆑	Clear	True	
+🌝	Smiling Moon	True	
+👔	Business Shirt	True	
+🚽	Toilet	True	
+🔗	Link Symbol	True	
+👴	Older Man	True	
+🇭🇳	flag Honduras	True	
+🐞	Lady Beetle	True	
+🍾	Champagne	True	
+🏚️	Derelict House Building	True	
+🍷	Wine	True	
+🗯️	Zig Zag Bubble	True	
+🐎	Horse	True	
+📼	Videocassette	True	
+👨‍💼	CEO	True	
+🇹🇴	Tongan\xa0Flag	True	
+🇷🇸	Serbian\xa0Flag	True	
+🎼	Sheet Music	True	
+🤤	Drool	True	
+🇧🇾	flag Belarus	True	
+💯	Keep It hundred	True	
+🔃	Clockwise Downwards and Upwards Open Circle Arrows	True	
+📓	Notebook	True	
+🍪	Biscuit	True	
+🇪🇸	flag Spain	True	
+🙍	Woman Frowning	True	
+🍂	Fall Leaves	True	
+🚬	Cigarette	True	
+😬	Foot In Mouth	True	
+🔨	Handyman	True	
+🇯🇴	flag Jordan	True	
+❤️	Love Heart	True	
+⏹️	Stop	True	
+👨‍⚕️	Man Health Worker	True	
+👨‍⚕️	Male Doctor	True	
+🌰	Acorn	True	
+🛏️	Bedroom	True	
+🇵🇭	flag Philippines	True	
+🎰	Slot Machine	True	
+🇬🇫	French Guinean Flag	True	
+🙃	Silly	True	
+🇹🇱	East Timorese Flag	True	
+🗿	Moyai	True	
+🇫🇯	Fijian Flag	True	
+🔨	Tool	True	
+🏁	Racing Flag	True	
+👿	Purple Devil	True	
+🥇	First Place Medal	True	
+♥️	Black Heart Suit	True	
+🎸	Electric Guitar	True	
+🌇	City Sunset	True	
+🍻	Clinking Beer Mugs	True	
+👨‍🚀	Man Cosmonaut	True	
+😱	Screaming Face	True	
+🇳🇪	flag Niger	True	
+🚴‍♂️	Male Cyclist	True	
+🔨	Hammer	True	
+📂	Open Folder	True	
+🚝	Monorail	True	
+👥	Shadows	True	
+🎹	Musical Keyboard	True	
+📍	Map Pin	True	
+🚹	Mens Toilet	True	
+🇬🇵	Guadeloupean Flag	True	
+🚪	Doorway	True	
+🌾	Crop	True	
+👨‍👦	Family: Man, Boy	True	
+🕳️	Hole	True	
+🔋	Phone Battery	True	
+🇲🇲	Myanmarese\xa0Flag	True	
+💌	Heart Envelope	True	
+☃️	Snowing Snowman	True	
+🎢	Rollercoaster	True	
+😏	Smirking Face	True	
+📆	Tear-Off Calendar	True	
+🇸🇨	Seychellois\xa0Flag	True	
+🇨🇭	Red Cross	True	
+🎚️	Level Slider	True	
+🚷	No Walking	True	
+💗	Triple Heart	True	
+🚵‍♂️	Man Mountain Biking	True	
+👨‍❤️‍👨	Gay couple	True	
+👨‍🍳	Male Chef	True	
+🤝	Handshake	True	
+🌪️	Cloud With Tornado	True	
+🐵	Monkey Head	True	
+😷	Face With Medical Mask	True	
+👿	Devil	True	
+🙃	Upside-Down Face	True	
+🇰🇵	North Korean Flag	True	
+🚵‍♀️	Woman Mountain Biking	True	
+👩	Yellow Woman	True	
+🌴	Coconut Tree	True	
+🐷	Pig Head	True	
+💦	Water Drops	True	
+📉	Chart With Downwards Trend	True	
+😵	Dizzy Face	True	
+💍	Ring	True	
+😞	Sadface	True	
+🔖	Bookmark	True	
+💫	Dizzy	True	
+🗻	Mount Fuji	True	
+🌽	Corn On The Cob	True	
+🌎	Globe	True	
+💵	Banknote With Dollar Sign	True	
+🇲🇲	Burmese Flag	True	
+🇭🇷	flag Croatia	True	
+😳	Flushed Face	True	
+🇲🇺	Mauritian Flag	True	
+🚂	Railway Locomotive	True	
+👜	Handbag	True	
+😟	Worried Face	True	
+🇸🇧	flag Solomon Islands	True	
+🇸🇦	Saudi Arabian\xa0Flag	True	
+👯‍♀️	Women With Bunny Ears Partying	True	
+🚨	Police Cars Revolving Light	True	
+😤	Frustrated	True	
+📂	Open File Folder	True	
+🖋️	Lower Left Fountain Pen	True	
+📜	Parchment	True	
+👅	Tongue Out	True	
+🏌️‍♀️	Woman Golfing	True	
+😒	Dissatisfied	True	
+😗	Kissy Face	True	
+💆‍♂️	Man Getting Massage	True	
+💮	White Flower	True	
+☎️	Black Telephone	True	
+🔼	Up-Pointing Small Red Triangle	True	
+⤵️	Curved Down Arrow	True	
+🌰	Acorn	True	
+👶	Baby	True	
+👨‍🌾	Man Farmer	True	
+🤐	Zip It	True	
+⭕	Heavy Large Circle	True	
+🤖	Robot	True	
+☪️	Star and Crescent	True	
+👨‍🚒	Man Firefighter	True	
+☔	Umbrella With Rain Drops	True	
+🚷	No Pedestrians	True	
+🇲🇹	flag Malta	True	
+😐	Face With Straight Mouth	True	
+🌅	Sunrise	True	
+📇	Card Index	True	
+❔	White Question Mark Ornament	True	
+🇹🇬	Togolese Flag	True	
+🤸	Gymnastics	True	
+🎉	Party Hat	True	
+🤦	Facepalm	True	
+🏑	Field Hockey Stick and Ball	True	
+🐓	Rooster	True	
+💈	Hairdresser	True	
+🏠	Home	True	
+👾	Alien Monster	True	
+🎬	Clapper Board	True	
+🇧🇾	Belarusian Flag	True	
+🍯	Pot	True	
+🔓	Unlock	True	
+🏁	Checkered Flag	True	
+🚾	Toilet WC	True	
+🇾🇹	flag Mayotte	True	
+✏️	Pencil	True	
+👩‍👧‍👦	Mother	True	
+🏃	Run	True	
+🇮🇹	Regional Indicator Symbol Letters IT	True	
+🇧🇮	Burundian Flag	True	
+👩‍👩‍👦	Family: Woman, Woman, Boy	True	
+🇹🇭	Thai Flag	True	
+👩‍👧‍👦	Only parent	True	
+🆕	Squared New	True	
+🍮	Creme Caramel	True	
+🇯🇲	flag Jamaica	True	
+🆓	Squared Free	True	
+👷	Face With Hat	True	
+🙉	Hear-No-Evil Monkey	True	
+👻	Halloween	True	
+🔖	Tag	True	
+👨‍👩‍👦	Only child family	True	
+🎵	Music Note	True	
+🚫	Banned	True	
+#️⃣	Octothorpe	True	
+🦍	Gorilla	True	
+💒	Church Wedding	True	
+🆘	Distress Signal	True	
+🍕	Slice of Pizza	True	
+👘	Dressing Gown	True	
+💈	Barber Pole	True	
+🍂	Brown Leaves	True	
+🌑	New Moon Symbol	True	
+🕎	Chanukiah	True	
+🍥	Fishcake	True	
+🍝	Spaghetti	True	
+😐	Neutral Face	True	
+📁	File Folder	True	
+🇸🇽	flag Sint Maarten	True	
+🇳🇦	Namibian Flag	True	
+🤣	ROFL	True	
+📰	Newspaper	True	
+☁️	Cloudy	True	
+🔒	Closed Lock	True	
+🌈	Gay Pride	True	
+🈸	Application Form	True	
+🎪	Circus Tent	True	
+💴	Yen	True	
+✈️	Flying	True	
+🥋	Martial Arts Uniform	True	
+🌂	Collapsed\xa0Umbrella	True	
+👝	Clutch	True	
+🐋	Humpback Whale	True	
+🏏	Cricket	True	
+☝️	Pointing Up	True	
+😖	Scrunched Face	True	
+🇨🇻	flag Cape Verde	True	
+🐇	Rabbit	True	
+💙	Blue Heart	True	
+🕵️	Spy	True	
+🇲🇴	flag Macau Sar China	True	
+🚞	Mountain Railway	True	
+🇫🇰	flag Falkland Islands	True	
+🇮🇶	flag Iraq	True	
+🐩	Poodle	True	
+🍬	Sweet	True	
+📅	Calendar	True	
+👈	Left Pointing Backhand Index	True	
+📕	Red Book	True	
+🙇‍♂️	Man Bowing	True	
+🔓	Open Padlock	True	
+⛄	Olaf	True	
+🚽	Bathroom	True	
+😷	Sick	True	
+🌵	Wild West	True	
+💆	Head Massage	True	
+😈	Purple Devil	True	
+🌸	Pink Flower	True	
+🐧	Socially Awkward Penguin	True	
+🤦‍♀️	Woman Facepalming	True	
+🇨🇾	flag Cyprus	True	
+😓	Face With Cold Sweat	True	
+🇸🇰	Slovakian Flag	True	
+💨	Steam	True	
+👋	Goodbye	True	
+🛵	Motor Bike	True	
+🤰	Pregnant\xa0Lady	True	
+🏃‍♂️	Man Running	True	
+😶	Face Without Mouth	True	
+🏁	Chequered Flag	True	
+👏	Golf Clap	True	
+🔈	Volume	True	
+🚢	Cruise Ship	True	
+🐨	Koala	True	
+🇵🇱	Polish Flag	True	
+🐺	Dingo	True	
+🙎‍♀️	Woman Pouting	True	
+👯	s Party", 	True	
+🎩	Groom	True	
+🇸🇨	flag Seychelles	True	
+🍥	Narutomaki	True	
+🇲🇷	Mauritanian Flag	True	
+🇾🇪	flag Yemen	True	
+🔔	Ringer	True	
+🇫🇷	French Flag	True	
+🇬🇦	flag Gabon	True	
+🇬🇶	Equatoguinean Flag	True	
+🎙️	Studio Microphone	True	
+💔	Broken Heart	True	
+⬇️	Downwards Black Arrow	True	
+🌠	Meteoroid	True	
+🗂️	Card Index Dividers	True	
+📎	Paperclip	True	
+🎤	Karaoke	True	
+🗑️	Trash Can	True	
+✂️	Black Scissors	True	
+🕵️	Sleuth or Spy	True	
+✂️	Cutting	True	
+🛰️	Satellite	True	
+🔀	Twisted Rightwards Arrows	True	
+👊	Punch	True	
+🌴	Survivor	True	
+🐭	Mouse With Whiskers	True	
+🕹️	Joystick	True	
+👞	Mans Shoe	True	
+🇨🇴	flag Colombia	True	
+🖲️	Trackball	True	
+💐	Bouquet Of Flowers	True	
+💉	Blood Donation	True	
+📄	Printed Page	True	
+🏚️	Abandoned House	True	
+👴	Grandpa	True	
+⛽	Fuel Pump	True	
+🉐	得	True	
+🌊	Beach	True	
+🎭	Drama Masks	True	
+😛	Tongue-Out	True	
+💂	British Guardsman	True	
+♋	Cancer	True	
+🔙	Back With Leftwards Arrow Above	True	
+☔	Raining	True	
+💃	Dancer	True	
+🇳🇮	Nicaraguan Flag	True	
+👩‍👦	Only parent	True	
+🎣	Fishing	True	
+🔦	Flashlight	True	
+📱	Smartphone	True	
+🤞	Fingers Crossed	True	
+💴	Yen Note	True	
+🇰🇬	Kyrgyzstani Flag	True	
+⚫	Medium Black Circle	True	
+🇳🇫	flag Norfolk Island	True	
+👊	Fist Bump	True	
+🇳🇿	Kiwi Flag	True	
+⛎	Ophiuchus	True	
+🇬🇬	Guernsey Flag	True	
+😕	Puzzled	True	
+🇸🇿	Swazi Flag	True	
+🇺🇲	flag U.S. Outlying Islands	True	
+😥	Disappointed but Relieved Face	True	
+🇾🇹	Mayotte Flag	True	
+🚆	Regular Train	True	
+😛	Tongue Face	True	
+🇧🇱	flag St. Barthélemy	True	
+📷	Camera	True	
+☕	drink	True	
+⤴️	right up	True	
+😎	Smiling Face With Sunglasses	True	
+🆔	Identification	True	
+🦁	Cute Lion	True	
+🐥	Front-Facing Baby Chick	True	
+🔂	Clockwise Rightwards and Leftwards Open Circle Arrows With Circled One Overlay	True	
+💖	Sparkling Heart	True	
+💮	White Flower	True	
+🍪	Chocolate Cookie	True	
+🚀	Space Shuttle	True	
+🎳	Bowling Ball	True	
+⤵️	Arrow Pointing Rightwards Then Curving Downwards	True	
+🖼️	Gallery	True	
+❔	question	True	
+🦀	Crab Cancer	True	
+🏖️	Beach With Umbrella	True	
+🚪	Door	True	
+🇪🇺	flag European Union	True	
+💊	Capsule	True	
+🇦🇿	Azerbaijani Flag	True	
+🍈	Cantaloupe	True	
+🆗	Squared OK	True	
+⛪	Church	True	
+🈁	Squared Katakana Koko	True	
+🚩	Flag on Pole	True	
+👨‍👨‍👦‍👦	Family: Man, Man, Boy, Boy	True	
+🚗	Red Car	True	
+🦑	Squid	True	
+🤛	Left-Facing Fist	True	
+😲	Drunk\xa0Face	True	
+😯	Surprised Face	True	
+🏫	School	True	
+🥄	Spoon	True	
+❣️	Heart Above Dot	True	
+💤	Zzz	True	
+😦	Frowning Face With Open Mouth	True	
+🔣	Symbol\xa0Input	True	
+🇵🇬	flag Papua New Guinea	True	
+🎉	Party Hat	True	
+💷	£20 Note	True	
+🈺	Work	True	
+🈵	Full	True	
+📥	Inbox Tray	True	
+🇳🇴	Norwegian Flag	True	
+🌯	Burrito	True	
+💵	$1 Note	True	
+📇	Index Card	True	
+🏭	Industrial	True	
+🖇️	Linked Paperclips	True	
+📁	Manilla Folder	True	
+🌌	Galaxy	True	
+👙	Bikini	True	
+🚰	Thirsty	True	
+🚧	Roadwork	True	
+📦	Package	True	
+👩‍🎨	Woman Artist	True	
+🆙	Up	True	
+😹	Happy Tears Cat	True	
+⭐	Yellow Star	True	
+❗	Exclamation	True	
+🌾	Wheat	True	
+🏌️	Golf Club	True	
+💭	Thought Bubble	True	
+🌞	Smiling Sun	True	
+🔖	Tag	True	
+💦	Splashing Sweat Symbol	True	
+🖇️	Linked Paperclips	True	
+◀️	Left Triangle	True	
+🎆	Explosion	True	
+⚒️	Hammer and Pick	True	
+☂️	Umbrella	True	
+🇺🇾	Uruguayan Flag	True	
+🚇	Subway	True	
+🍊	Tangerine	True	
+🐺	Fox	True	
+🔪	Hocho	True	
+🗿	Easter Island	True	
+👩‍🎤	Woman Singer	True	
+🎣	Fishing Rod	True	
+🍣	Sashimi	True	
+#️⃣	Keycap Number Sign	True	
+😋	Face Savouring Delicious Food	True	
+🎏	Carp Streamer	True	
+📎	Paperclip	True	
+☠️	Skull and Crossbones	True	
+🎁	Gift Box	True	
+🚘	Oncoming Automobile	True	
+💾	3.5″ Disk	True	
+🏏	Cricket Bat and Ball	True	
+🍄	Shroom	True	
+📀	DVD ROM	True	
+🚲	Push Bike	True	
+🆒	Squared Cool	True	
+👨‍💼	Man Office Worker	True	
+👓	Eyeglasses	True	
+🌼	Blossom	True	
+🍌	Plantain	True	
+🈷️	月	True	
+🌆	Cityscape at Dusk	True	
+🐱	Cat Face	True	
+🏭	Factory	True	
+🙆	Hands On Head	True	
+🏴‍☠️	Jolly Roger	True	
+👚	Womans Clothes	True	
+🔨	Tool	True	
+🎲	Game Die	True	
+🆔	ID	True	
+🇿🇦	South African\xa0Flag	True	
+🍢	Kebab	True	
+📺	Television	True	
+👘	Kimono	True	
+📚	Stack Of Books	True	
+🚲	Bicycle	True	
+🇵🇪	flag Peru	True	
+🚰	Thirsty	True	
+🔍	Left-Pointing Magnifying Glass	True	
+😭	Bawling	True	
+✖️	Heavy Multiplication X	True	
+👩‍👩‍👦	Lesbian family with child	True	
+🤶	Mother Christmas	True	
+💉	Syringe	True	
+💀	Skull	True	
+🔓	Open Lock	True	
+☔	Rainy	True	
+🙎	Person With Pouting Face	True	
+🌰	Chestnut	True	
+🇹🇰	Tokelauan Flag	True	
+🇶🇦	Qatari Flag	True	
+🚧	Roadwork Sign	True	
+😃	Happy	True	
+🈹	Bargain Sale	True	
+🇳🇦	flag Namibia	True	
+🍳	Breakfast	True	
+🎸	Guitar	True	
+👩	Woman	True	
+👨‍👧‍👦	Only parent	True	
+㊗️	Circled Ideograph Congratulation	True	
+🎁	Birthday Present	True	
+🤥	Lying Face	True	
+📼	VHS	True	
+👜	Women’s Bag	True	
+📇	Rolodex	True	
+💨	Fast	True	
+👵	Old Lady	True	
+🇪🇪	flag Estonia	True	
+⬛	Black Large Square	True	
+🛏️	Bedroom	True	
+👀	Eyeballs	True	
+🕑	Clock Two O’Clock	True	
+📸	Camera With Flash	True	
+🤷	Shrugging	True	
+🛀	Bathing	True	
+🇹🇨	flag Turks &amp; Caicos Islands	True	
+📚	Pile Of Books	True	
+🇿🇲	Zambian Flag	True	
+🆘	SOS	True	
+🌑	Dark Moon	True	
+🇧🇻	flag Bouvet Island	True	
+👇	Down Pointing Backhand Index	True	
+💉	Blood Test	True	
+🇧🇫	Burkinabe Flag	True	
+❤️	Heart	True	
+🇱🇷	flag Liberia	True	
+🇭🇰	flag Hong Kong Sar China	True	
+💩	Smiling Poop	True	
+💑	Couple In Love	True	
+🔢	Numeric Input	True	
+💇	Hairdresser	True	
+🎽	Singlet	True	
+📌	Pushpin	True	
+💎	Gem	True	
+🔃	around	True	
+🤕	Injured	True	
+🎦	Movies	True	
+👈	Pointing Left	True	
+💰	Moneybags	True	
+🇬🇧	Regional Indicator Symbol Letters GB	True	
+👩	Lady	True	
+👩‍👩‍👦‍👦	Family: Woman, Woman, Boy, Boy	True	
+💧	Water	True	
+🏬	Department Store	True	
+🇸🇾	flag Syria	True	
+🇲🇺	flag Mauritius	True	
+🎡	Ferris Wheel	True	
+😞	:(	True	
+🎥	Movie Camera	True	
+🆙	Level Up	True	
+🏉	League	True	
+🎯	Bullseye	True	
+🔝	Top With Upwards Arrow Above	True	
+🌸	Sakura	True	
+💈	Barber Pole	True	
+📮	Postbox	True	
+↗️	North East Arrow	True	
+👏	Clap	True	
+🍵	drink	True	
+😀	Happy Face	True	
+🌚	Creepy Moon	True	
+🍚	Boiled Rice	True	
+☂️	Umbrella	True	
+📡	Satellite Antenna	True	
+🇺🇦	flag Ukraine	True	
+🚣‍♀️	Woman Rowing Boat	True	
+🍆	Phallic	True	
+🇿🇲	flag Zambia	True	
+⛲	Fountain	True	
+🎊	Confetti Ball	True	
+🥃	Rum	True	
+🚧	Construction Sign	True	
+🐳	Spouting Whale	True	
+🐐	Goat	True	
+🙂	Slightly Happy	True	
+🚄	High-Speed Train	True	
+👏	Applause	True	
+🥃	Tumbler Glass	True	
+🤡	Clown Face	True	
+😛	Cheeky	True	
+🐮	Cow Face	True	
+🚆	Passenger Train	True	
+🤘	Sign of the Horns	True	
+0️⃣	Keycap Digit Zero	True	
+🐟	Fish	True	
+🌎	Earth Globe Americas	True	
+💮	Paper Doily	True	
+🇧🇪	flag Belgium	True	
+🌰	Nut	True	
+😉	Wink Face	True	
+📪	Closed Mailbox With Lowered Flag	True	
+📟	Bleeper	True	
+🈴	合	True	
+💻	Laptop	True	
+👪	Family With Boy and Girl	True	
+👵	Elderly Woman	True	
+😩	Distraught Face	True	
+🦇	Black Bat	True	
+🇲🇾	Malaysian Flag	True	
+🎄	Christmas	True	
+📤	Outbox Tray	True	
+👚	Woman’s Shirt	True	
+🇦🇽	flag Åland Islands	True	
+🚐	Minibus	True	
+👨‍👨‍👦‍👦	Gay family	True	
+💮	Cherry Blossom	True	
+🏬	Shopping Center	True	
+😅	Exercise	True	
+💈	Barber Shop	True	
+👇	Pointing Down	True	
+😖	Quivering Mouth	True	
+⛷️	Skier	True	
+🖨️	Printer	True	
+💌	Love Letter	True	
+🥋	Judo	True	
+🐐	Billy Goat	True	
+🎬	Film Slate	True	
+💁‍♂️	Man Tipping Hand	True	
+😰	Concerned\xa0Face	True	
+😶	Mouthless	True	
+📖	Open Book	True	
+▶️	Play Button	True	
+♣️	Clubs	True	
+🇧🇮	flag Burundi	True	
+🍾	Bottle With Popping Cork	True	
+⛪	Cross	True	
+🐕	Doggo	True	
+🇦🇶	flag Antarctica	True	
+🇰🇼	flag Kuwait	True	
+💆	Face Massage	True	
+🇻🇪	flag Venezuela	True	
+🛋️	Couch and Lamp	True	
+🍎	Empire Apple	True	
+😿	Sad\xa0Cat	True	
+🍺	Beer	True	
+🛄	Baggage Claim	True	
+👡	Womans Sandal	True	
+🇹🇷	flag Turkey	True	
+📯	Bugle	True	
+🔎	Magnifying Glass	True	
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	Saltire	True	
+👯	Woman With Bunny Ears	True	
+🥝	Kiwifruit	True	
+🔡	ABCD	True	
+🇷🇴	flag Romania	True	
+🏇	Horse Race	True	
+🚨	Siren	True	
+🆒	Cool Square	True	
+♠️	Black Spade Suit	True	
+👎	Dislike	True	
+🇬🇩	flag Grenada	True	
+🛎️	Bellhop Bell	True	
+🛅	Bag\xa0With Key	True	
+🤾	Handball	True	
+🍸	Martini	True	
+⏰	Alarm Clock	True	
+🇩🇿	flag Algeria	True	
+📉	📈 Negative\xa0Chart	True	
+🇦🇪	flag United Arab Emirates	True	
+🈳	Squared CJK Unified Ideograph-7A7A	True	
+🇵🇬	Papua New Guinean Flag	True	
+🇱🇦	Laotian Flag	True	
+🍜	Ramen	True	
+👨‍👧‍👧	Only parent	True	
+🚜	Tractor	True	
+🔙	Back	True	
+🐞	Ladybug	True	
+🏡	House With Garden	True	
+🚂	Steam Train	True	
+😮	Face With Open Mouth	True	
+😰	Nervous Face	True	
+🏁	Grid Girl	True	
+🚑	Ambulance	True	
+🔐	Closed Lock With Key	True	
+🤦‍♂️	Man Facepalming	True	
+🌂	Pink Umbrella	True	
+😍	Heart Face	True	
+👍	Thumbs Up	True	
+🔋	Phone Battery	True	
+🚜	Farm	True	
+🕳️	Hole	True	
+🏋️	Weightlifting	True	
+😂	Face With Tears of Joy	True	
+☺️	Smiley Face	True	
+😅	Happy Sweat	True	
+🗑️	Rubbish Bin	True	
+🎖️	Military Medal	True	
+🏪	Convenience Store	True	
+🎳	Bowling	True	
+🗳️	Vote Box	True	
+🐇	Bunny	True	
+🇮🇪	flag Ireland	True	
+🕯️	Candle	True	
+😶	Blank Face	True	
+🤦	SMH	True	
+🖥️	iMac	True	
+🎏	Fish Flag	True	
+💔	Breaking Heart	True	
+😆	Smiling Face With Open Mouth and Tightly-Closed Eyes	True	
+🏓	Table Tennis	True	
+👣	Footsteps	True	
+🚃	Railcar	True	
+📚	Stack Of Books	True	
+🐱	Kitty	True	
+🍍	Pineapple	True	
+📅	World Emoji Day	True	
+👩‍🍳	Female Chef	True	
+🗡️	Dagger Knife	True	
+🔡	Lowercase	True	
+🛤️	Railway Track	True	
+📦	Parcel	True	
+🕉️	Pranava	True	
+🔜	Soon	True	
+🗻	Fuji-san	True	
+🍴	Cutlery	True	
+🎽	Running Shirt	True	
+🍴	Fork and Knife	True	
+📙	Orange Book	True	
+🇦🇸	flag American Samoa	True	
+🌟	Exploding Star	True	
+🇲🇶	flag Martinique	True	
+📯	Postal Horn	True	
+🐲	Dragon Head	True	
+🍾	drink	True	
+⤴️	Arrow Pointing Rightwards Then Curving Upwards	True	
+💸	Money With Wings	True	
+🇰🇾	Caymanian Flag	True	
+👞	Shoe	True	
+🇦🇺	Australian Flag	True	
+🇦🇱	flag Albania	True	
+🐋	Whale	True	
+🎧	Headphones	True	
+📱	Cell Phone	True	
+🗞️	Rolled-Up Newspaper	True	
+🤑	Money-Mouth Face	True	
+💺	Bus Seat	True	
+🅾️	Negative Squared Latin Capital Letter O	True	
+🏊‍♀️	Woman Swimming	True	
+😠	Angry Face	True	
+🗿	Easter Island	True	
+🎼	Treble Clef	True	
+🇭🇹	Haitian Flag	True	
+🎵	Beamed Pair Of Eighth Notes	True	
+🎰	Gambling	True	
+👸	Blonde Girl	True	
+🇭🇲	flag Heard &amp; Mcdonald Islands	True	
+😮	Surprised	True	
+🍘	Rice Cracker	True	
+💒	Church Heart	True	
+🚴‍♀️	Female Cyclist	True	
+🚨	Emergency\xa0Light	True	
+🙅‍♀️	Woman Gesturing No	True	
+🇸🇰	flag Slovakia	True	
+🔨	Claw Hammer	True	
+💞	Revolving Hearts	True	
+🍶	Sake Bottle and Cup	True	
+👨‍👩‍👧	Only child family	True	
+👯	Ballet	True	
+🈴	Agreement	True	
+🚉	Train Station	True	
+💏	Kiss	True	
+🍀	Clover	True	
+📚	Books	True	
+🇬🇵	flag Guadeloupe	True	
+🏴	Waving Black Flag	True	
+🎀	Ribbon	True	
+🗿	Human Rock Carving	True	
+✨	Sparkle	True	
+🔪	Knife	True	
+🇫🇮	Finnish Flag	True	
+🖥️	PC Tower	True	
+🎧	Earphone	True	
+🥔	Regular Potato	True	
+🚵	Person On Bike	True	
+🕍	Synagog	True	
+🥀	Dead Flower	True	
+🎥	Hollywood	True	
+🇲🇵	flag Northern Mariana Islands	True	
+💳	Mastercard	True	
+🇮🇷	flag Iran	True	
+🌌	Space	True	
+🇦🇩	Andorran Flag	True	
+🏛️	Classical Building	True	
+🍛	Indian Food	True	
+🤼	Wrestling	True	
+🇦🇪	UAE Flag	True	
+🌄	Morning	True	
+📉	📈 Down\xa0Pointing Graph	True	
+🇬🇷	Greek Flag	True	
+📅	July 17	True	
+🔎	Search Icon	True	
+💣	Bomb	True	
+🤹‍♀️	Woman Juggling	True	
+😺	Happy Cat	True	
+👖	Jeans	True	
+😄	Grinning Face	True	
+📑	Bookmark Tabs	True	
+🐸	Frog	True	
+😍	Heart Eyes	True	
+📙	Orange Book	True	
+🔯	Six Pointed Star With Middle Dot	True	
+👨‍🚀	Man Astronaut	True	
+👺	Japanese Goblin	True	
+🍺	drink	True	
+🐇	Bunny Rabbit	True	
+🔍	Search Icon	True	
+⬇️	Down Arrow	True	
+🚜	Farming	True	
+🚃	Railway Wagon	True	
+☸️	Helm	True	
+👤	Silhouette	True	
+👩‍👧‍👦	Family: Woman, Girl, Boy	True	
+🐻	Teddy Bear	True	
+↩️	Email Reply	True	
+🌏	Earth	True	
+👨‍👧	Family: Man, Girl	True	
+🍣	Seafood	True	
+📰	Newspaper	True	
+🤗	Hugs	True	
+🗿	Moyai Statue	True	
+🈵	満	True	
+💰	Moneybags	True	
+🤣	Rolling on the Floor Laughing	True	
+🕋	Kaaba	True	
+👀	Wide Eyes	True	
+📲	Phone With Arrow	True	
+🇻🇦	flag Vatican City	True	
+🇸🇩	flag Sudan	True	
+🌃	City At Night	True	
+🛑	Stop Sign	True	
+☕	Hot Chocolate	True	
+🖼️	Frame With Picture	True	
+👸	Princess	True	
+🔓	Open Padlock	True	
+🇧🇪	Belgian Flag	True	
+😷	Doctor	True	
+🎬	Clapboard	True	
+🎾	Tennis	True	
+🚽	Restroom	True	
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	flag Wales (GB-WLS)	True	
+🇧🇹	Bhutanese Flag	True	
+🏪	24-Hour Store	True	
+🍤	Fried Prawn	True	
+🔌	Electric Plug	True	
+🍤	Tempura	True	
+💩	Pile of Poo	True	
+👹	Scary	True	
+🎦	Cinema Screen	True	
+👛	Purse	True	
+🤐	Sealed Lips	True	
+👣	Feet	True	
+🤸	Person Doing Cartwheel	True	
+🇮🇴	flag British Indian Ocean Territory	True	
+📿	Dhikr Beads	True	
+😕	Confused Face	True	
+🎐	Wind Chime	True	
+👻	Ghost	True	
+❎	X	True	
+🌚	New Moon With Face	True	
+💮	Paper Doily	True	
+🏭	Smog	True	
+💌	Love Note	True	
+🛋️	Couch	True	
+😑	Face With Straight Mouth	True	
+⏪	Black Left-Pointing Double Triangle	True	
+🙈	Monkey Covering Eyes	True	
+⛰️	Mountain	True	
+📍	Red Pin	True	
+🐴	Horse Face	True	
+🔮	Fortune Teller	True	
+🚿	Shower	True	
+💴	Yen Note	True	
+🚶	Walking	True	
+🕍	Temple	True	
+🔆	Increase Brightness	True	
+🀄	Mahjong Tile Red Dragon	True	
+🌆	Dusk City	True	
+🌼	Yellow Flower	True	
+😌	Relieved Face	True	
+📲	Mobile Phone With Rightwards Arrow at Left	True	
+🎳	Pins	True	
+🛵	Vespa	True	
+🈳	Empty and Available	True	
+🍚	Steamed Rice	True	
+🐯	Tiger Face	True	
+🎩	Formal Wear	True	
+🏇	Jockey	True	
+🤳	Selfie	True	
+🇲🇬	Madagascan Flag	True	
+⏰	Clock	True	
+🍹	Tiki Cocktail	True	
+🏨	H Building	True	
+🔢	Input Symbol for Numbers	True	
+🗜️	Table Vice	True	
+💡	Light Bulb	True	
+♿	Accessible Bathroom	True	
+😜	Crazy Face	True	
+👩‍🌾	Woman Farmer	True	
+🕷️	Funnel-Web Spider	True	
+🔏	Lock\xa0With Fountain Pen	True	
+🇺🇬	Ugandan\xa0Flag	True	
+🏃	Jogging	True	
+🤵	Man In Suit	True	
+🔄	Reverse Arrows	True	
+🏴	Waving Black Flag	True	
+🎉	Celebration	True	
+👮	Police Officer	True	
+🌛	First Quarter Moon With Face	True	
+🔰	Shoshinsha Mark	True	
+📣	Megaphone	True	
+🚡	Cable Car	True	
+🍢	Oden	True	
+😅	Smiling Face With Open Mouth and Cold Sweat	True	
+👷	Hard-Hat	True	
+🈵	Squared CJK Unified Ideograph-6E80	True	
+👱	Blond Man	True	
+🚒	Fire Department	True	
+🈺	営	True	
+🥈	Second Place Medal	True	
+🐵	Monkey Face	True	
+🔚	End	True	
+🤔	Thinking Face	True	
+🚟	Suspension Railway	True	
+🍵	Matcha	True	
+🗽	Statue of Liberty	True	
+💿	CD ROM	True	
+🍃	Leaf Fluttering in Wind	True	
+🌭	Hotdog	True	
+👳‍♂️	Man Wearing Turban	True	
+😏	Smug Face	True	
+🍦	Soft Serve	True	
+🇹🇯	Tajik Flag	True	
+🛁	Bubble Bath	True	
+🍵	Green Tea	True	
+😭	Crying	True	
+🤞	Good Luck	True	
+🇲🇼	Malawian\xa0Flag	True	
+💶	Banknote With Euro Sign	True	
+⭕	Circle	True	
+👾	Video Game Monster	True	
+🏈	American Football	True	
+🍹	drink	True	
+👕	Polo Shirt	True	
+🌲	Evergreen Tree	True	
+🌰	Nut	True	
+🙅	X Arms	True	
+🇨🇾	Cypriot Flag	True	
+🍄	Mushroom	True	
+🚰	Water Tap	True	
+👨‍👧	Only parent	True	
+⏲️	Timer Clock	True	
+👂	Ear	True	
+💀	Death	True	
+🚩	Triangular Flag on Post	True	
+🇲🇪	Montenegrin Flag	True	
+💶	Euro	True	
+😈	Happy Devil	True	
+🎁	Christmas Present	True	
+📞	Telephone Receiver	True	
+🚿	Shower Head	True	
+🇱🇻	Latvian Flag	True	
+☄️	Light Beam	True	
+🚼	Nursery	True	
+🥂	Celebration	True	
+🇰🇿	Kazakh Flag	True	
+🕵️‍♀️	Woman Detective	True	
+😠	Angry	True	
+🇧🇹	flag Bhutan	True	
+🇰🇵	flag North Korea	True	
+♎	Libra	True	
+👩‍⚕️	Female Nurse	True	
+🎱	Pool	True	
+✋	Raised Hand	True	
+😮	Open Mouth	True	
+🐟	Freshwater Fish	True	
+🍄	Mushroom	True	
+🌡️	Hot Weather	True	
+🚿	Shower	True	
+☺️	Smiling	True	
+🇸🇲	flag San Marino	True	
+🚕	Taxi	True	
+👆	Pointing Up	True	
+🤸‍♀️	Woman Cartwheeling	True	
+🇵🇹	flag Portugal	True	
+📗	Green Book	True	
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	flag England (GB-ENG)	True	
+↕️	Vertical Arrows	True	
+📅	World Emoji Day	True	
+🚅	Shinkansen	True	
+👃	Nose	True	
+🌥️	White Sun Behind Cloud	True	
+😷	SARS	True	
+🎨	Painting	True	
+🤘	Rock On	True	
+🇵🇰	Pakistani Flag	True	
+📉	Chart With Downwards Trend	True	
+🇨🇼	Curaçaoan Flag	True	
+😪	Sleepy Face	True	
+👎	No	True	
+🇦🇿	flag Azerbaijan	True	
+🎴	Hanafuda	True	
+😸	Grinning Cat	True	
+📑	Bookmark Tabs	True	
+🇬🇶	Equatorial Guinean Flag	True	
+😃	Happy Face	True	
+🤒	Face With Thermometer	True	
+📛	Tofu On Fire	True	
+💭	Thought Balloon	True	
+🚴	Bike	True	
+▪️	Black Small Square	True	
+📱	iPhone	True	
+🍶	Rice Wine	True	
+💥	Collision Symbol	True	
+🏳️	Waving White Flag	True	
+♍	Virgo	True	
+🇱🇦	flag Laos	True	
+🇦🇽	Åland Flag	True	
+🤷‍♂️	Man Shrugging	True	
+😏	Flirting	True	
+🎓	Square Academic Cap	True	
+🥗	Green Salad	True	
+🛍️	Shopping Bags	True	
+🏳️‍🌈	Pride Flag	True	
+🍏	Golden Delicious Apple	True	
+💅	Beauty	True	
+👑	Queen	True	
+🖌️	Lower Left Paintbrush	True	
+🏔️	Snow Capped Mountain	True	
+🗞️	Newspaper Delivery	True	
+🤢	Disgust	True	
+🌶️	Hot Pepper	True	
+💩	Dog Dirt	True	
+🏆	Championship Trophy	True	
+🗜️	WinZip	True	
+💥	Red Spark	True	
+🇦🇴	Angolan Flag	True	
+🐂	Bullock	True	
+🙅	No	True	
+👅	Tongue	True	
+🚞	Train And Mountain	True	
+🍄	Shroom	True	
+🇲🇸	flag Montserrat	True	
+🏊	Swimming	True	
+🇧🇴	flag Bolivia	True	
+🇷🇼	flag Rwanda	True	
+🇦🇫	Afghan Flag	True	
+🇹🇳	Tunisian Flag	True	
+😗	Whistling	True	
+👨‍👦‍👦	Family: Man, Boy, Boy	True	
+🇬🇹	flag Guatemala	True	
+💳	Diners Club	True	
+🚎	Trolley Bus	True	
+💂	Foot Guard	True	
+👌	Okay	True	
+🌴	Palm Tree	True	
+🔧	Spanner	True	
+👶	Child	True	
+👐	Hug	True	
+🇰🇿	Kazakhstani Flag	True	
+👨‍👧	Father	True	
+⚽	Football	True	
+💅	Nails	True	
+🌏	Planet	True	
+🇦🇼	flag Aruba	True	
+🍋	Lemon	True	
+🇫🇷	flag France	True	
+🇨🇦	flag Canada	True	
+🇹🇱	Timor-Leste\xa0Flag	True	
+🐕	Dog	True	
+😚	Kissy Face	True	
+☁️	Overcast	True	
+🎭	Performing Arts	True	
+👨‍👦‍👦	Father	True	
+😂	Laughing	True	
+♏	Scorpius	True	
+🏚️	Old House	True	
+☮️	Peace Symbol	True	
+🍁	Canadian	True	
+⛷️	ski	True	
+⭕	Red Circle	True	
+📐	Triangular Ruler	True	
+🔥	Snapstreak	True	
+🐌	Garden Snail	True	
+🤚	Raised Back of Hand	True	
+🇲🇫	flag St. Martin	True	
+🇵🇸	Palestine	True	
+🏑	Field Hockey	True	
+😢	Crying Face	True	
+👨‍👦‍👦	Only parent	True	
+🌡️	Temperature	True	
+🌘	Waning Crescent Moon Symbol	True	
+🤸‍♂️	Man Cartwheeling	True	
+🔞	No One Under Eighteen Symbol	True	
+🚐	People-Mover	True	
+🏈	Gridiron	True	
+🔮	Purple Crystal	True	
+👊	Bro Fist / Brofist	True	
+👩‍🚒	Woman Firefighter	True	
+🙇	Bowing Man	True	
+✊	Fist Pump	True	
+🇸🇮	Slovenian Flag	True	
+🇹🇷	Turkish\xa0Flag	True	
+🇧🇬	flag Bulgaria	True	
+📺	TV	True	
+🎑	Moon Viewing Ceremony	True	
+❄️	Snowing	True	
+🔛	On With Exclamation Mark With Left Right Arrow Above	True	
+🇳🇬	flag Nigeria	True	
+™️	Trade Mark	True	
+🤠	Face With Cowboy Hat	True	
+📉	📈 Down\xa0Pointing Graph	True	
+🇮🇳	flag India	True	
+🛏️	Bed	True	
+🌋	Volcano	True	
+🏄‍♀️	Woman Surfing	True	
+🎫	Ticket	True	
+🏁	Grid Girl	True	
+❗	Heavy Exclamation Mark Symbol	True	
+⭐	Star	True	
+🙊	No Speaking	True	
+🎂	Cake	True	
+🐯	Cute Tiger	True	
+🛁	Bathtub	True	
+👯‍♂️	Men With Bunny Ears Partying	True	
+🚦	Traffic Light	True	
+🍒	Cherry	True	
+😈	Devil	True	
+🚃	Railway Carriage	True	
+👩‍👦	Mother	True	
+❌	X	True	
+🇧🇩	Bangladeshi Flag	True	
+☝️	Up Pointing Index	True	
+🏮	Izakaya Lantern	True	
+👺	Red Mask	True	
+💁	Information Desk Person	True	
+🖨️	Printer	True	
+👲	Asian Man	True	
+✝️	Christian Cross	True	
+🕜	Clock One-Thirty	True	
+👐	Jazz Hands	True	
+👩‍✈️	Woman Pilot	True	
+😟	Sadface	True	
+🆖	No Good	True	
+🇫🇴	Faroe Islander Flag	True	
+✡️	Star of David	True	
+😄	Smiling Face With Open Mouth and Smiling Eyes	True	
+🚇	Metro	True	
+🤷	Shrug ¯\\_(ツ)_/¯	True	
+👨‍✈️	Man Pilot	True	
+🌊	Waves	True	
+🎏	Koinobori	True	
+🦃	Turkey	True	
+🎑	Grass, Dumplings and Moon	True	
+📠	Facsimile	True	
+🚩	Triangular Flag on Post	True	
+🙌	Two Hands	True	
+👖	Pants	True	
+🇷🇪	flag Réunion	True	
+🚖	Taxicab	True	
+👩‍🎓	Woman Student	True	
+📝	Pencil And Paper	True	
+🕝	Clock Two-Thirty	True	
+🇮🇪	Irish\xa0Flag	True	
+💿	Compact Disc	True	
+🌀	Hurricane	True	
+🎼	Musical Score	True	
+📇	System Card	True	
+👗	Dress	True	
+🐶	Puppy	True	
+📅	Calendar	True	
+🤘	Heavy Metal	True	
+📍	Dropped Pin	True	
+💖	Sparkle Heart	True	
+🏧	ATM	True	
+🏺	Amphora	True	
+🍙	Triangle Rice	True	
+⛱️	Umbrella on Ground	True	
+🈚	Lacking	True	
+🎍	Kadomatsu	True	
+🇰🇷	South Korean Flag	True	
+😞	Sad	True	
+😊	Happy Face	True	
+📍	Round Pushpin	True	
+🌀	Tornado	True	
+🤒	Sick	True	
+😬	Snapchat Mutual #1\xa0Best Friend	True	
+🎧	Headphone	True	
+🦅	Bald Eagle	True	
+📪	Closed Mailbox With Lowered Flag	True	
+🍆	Eggplant	True	
+💰	Rich	True	
+🏥	Hospital	True	
+ⓜ️	Ⓜ Circled M	True	
+🐎	Horse Racing	True	
+☢️	Nuclear	True	
+👄	Mouth	True	
+😔	Pensive Face	True	
+🐾	Paw Prints	True	
+☮️	Peace Sign	True	
+📃	Curly\xa0Page	True	
+📻	Digital Radio	True	
+‼️	Double Exclamation Mark	True	
+📜	Degree	True	
+🍇	Grapes	True	
+🕍	Synagogue	True	
+💴	¥1000 Note	True	
+🎓	Graduate	True	
+🦍	Harambe	True	
+🔁	Loop Symbol	True	
+🐢	Tortoise	True	
+🍹	Tropical Drink	True	
+🔒	Padlock	True	
+🕧	Clock Face Twelve-Thirty	True	
+⚠️	Warning Sign	True	
+🔻	Down-Pointing Red Triangle	True	
+🏢	High-Rise Building	True	
+📼	VCR	True	
+🕴️	Rude Boy	True	
+🍏	Grevenstein Apple	True	
+🌈	Rainbow	True	
+🇮🇱	flag Israel	True	
+🌕	Full Moon Symbol	True	
+🎭	Greek Theatre\xa0Masks	True	
+👹	Oni	True	
+✒️	Black Nib	True	
+😨	Fearful Face	True	
+💿	Compact Disc	True	
+🏋️‍♂️	Man Lifting Weights	True	
+🍈	Melon	True	
+🔋	AA Battery	True	
+🤹‍♂️	Man Juggling	True	
+⛸️	Ice Skate	True	
+🕟	Clock Four-Thirty	True	
+🌠	When You Wish Upon A Star	True	
+📗	Green Book	True	
+🌹	Red Rose	True	
+⛑️	Helmet With White Cross	True	
+👬	Two Men Holding Hands	True	
+🔹	Small Blue Diamond	True	
+⏲️	Timer Clock	True	
+⚽	Soccer Ball	True	
+⬆️	Arrow Pointing Up	True	
+🎎	Imperial Dolls	True	
+☠️	Skull and Crossbones	True	
+😱	Scream	True	
+🇲🇭	Marshallese Flag	True	
+🍝	Spaghetti Bolognese	True	
+🗓️	Spiral Calendar Pad	True	
+🤥	Long Nose	True	
+🚽	Loo	True	
+💄	Lipstick	True	
+⚰️	Casket	True	
+👨‍👧‍👦	Family: Man, Girl, Boy	True	
+🏦	BK	True	
+🔽	Down Triangle	True	
+❇️	Sparkle	True	
+👩‍⚕️	Woman Health Worker	True	
+🍴	Knife And Fork	True	
+🐁	Mouse	True	
+👒	Hat	True	
+🇵🇾	Paraguayan Flag	True	
+🇹🇱	flag Timor-Leste	True	
+🌖	Waning Gibbous Moon Symbol	True	
+😙	Kiss Face	True	
+📧	E-Mail Symbol	True	
+😎	Mutual Best Friends (Snapchat)	True	
+💀	dead	True	
+✒️	✒ Pen Nib	True	
+⌨️	Keyboard	True	
+💰	Rich	True	
+🗑️	Wastebasket	True	
+🥛	Glass of Milk	True	
+🍫	Chocolate Bar	True	
+🚌	Bus	True	
+📫	Closed Mailbox With Raised Flag	True	
+👮	Policeman	True	
+🇬🇳	Guinean Flag	True	
+🇨🇻	Cape Verdian Flag	True	
+📀	DVD	True	
+🇯🇪	flag Jersey	True	
+🍽️	Fork and Knife With Plate	True	
+😈	Red\xa0Devil	True	
+🐗	Wild Boar	True	
+💖	Stars\xa0Heart	True	
+🇦🇺	Aussie Flag	True	
+🐪	Dromedary Camel	True	
+🔑	Key	True	
+🇨🇱	flag Chile	True	
+🐫	Double Bump Camel	True	
+🍖	BBQ	True	
+🇦🇸	American Samoan Flag	True	
+🍧	Shaved Ice	True	
+👁️‍🗨️	I Am A Witness	True	
+🤑	Dollar Sign Eyes	True	
+🥊	Boxing Glove	True	
+🇸🇯	flag Svalbard &amp; Jan Mayen	True	
+🌑	Shadow\xa0Moon	True	
+🇦🇩	flag Andorra	True	
+🇲🇩	Moldovan Flag	True	
+📖	Novel	True	
+🍃	Spring	True	
+🛅	Left Luggage	True	
+💸	Flying Money	True	
+♉	Taurus	True	
+🎏	Fish Flag	True	
+🇲🇪	flag Montenegro	True	
+🍕	Pizza	True	
+🕠	Clock Five-Thirty	True	
+🇮🇳	Indian Flag	True	
+🐞	Lady Bug	True	
+🎴	Flower Playing Cards	True	
+📕	Red Book	True	
+👠	Stiletto	True	
+🇭🇰	Hong Kong Flag	True	
+🎆	Fireworks	True	
+🤶	Mrs Claus	True	
+🇱🇾	Libyan Flag	True	
+🍦	Soft Ice Cream	True	
+📯	Postal Horn	True	
+👨‍🎨	Man Artist	True	
+🏁	Chequered Flag	True	
+🎍	Pine Decoration	True	
+🚴	Bicyclist	True	
+⚠️	Alert Symbol	True	
+↘️	South East Arrow	True	
+🏉	Union	True	
+👼	Baby Angel	True	
+✌️	Peace Sign	True	
+⛹️	basketballer	True	
+🇭🇺	flag Hungary	True	
+💺	Airplane Seat	True	
+📜	Parchment	True	
+🤖	Robot Face	True	
+🏺	Jar	True	
+🍶	Bottle	True	
+🌅	Sunset	True	
+👭	Lesbian	True	
+🏟️	Sport Stadium	True	
+❎	Negative Squared Cross Mark	True	
+📭	Open Mailbox With Lowered Flag	True	
+😇	Smiling Face With Halo	True	
+😭	Sad Tears	True	
+🏯	Fortress	True	
+📶	Reception Bars	True	
+🏺	Jar	True	
+🚁	Helicopter	True	
+🙁	Slightly Sad	True	
+⭕	Correct	True	
+🇸🇮	flag Slovenia	True	
+🌠	Meteoroid	True	
+⭐	White Medium Star	True	
+👼	Cherub	True	
+🏆	Trophy	True	
+🌭	Sausage	True	
+ⓜ️	Ⓜ Metro	True	
+🇬🇭	flag Ghana	True	
+📀	DVD ROM	True	
+🏉	Rugby Football	True	
+👨‍🎓	Man Student	True	
+7️⃣	Keycap Digit Seven	True	
+🦊	Fox Face	True	
+📝	Memorandum	True	
+📀	DVD	True	
+🗒️	Spiral Note Pad	True	
+🚽	Restroom	True	
+💺	Seat	True	
+🚮	Person With Trash	True	
+🇬🇳	flag Guinea	True	
+🇨🇰	flag Cook Islands	True	
+😥	Eyebrow Sweat	True	
+🔎	Right-Pointing Magnifying Glass	True	
+🏫	Clock Tower	True	
+🛏️	Bed	True	
+🛢️	Oil Drum	True	
+🇺🇳	flag United Nations	True	
+💎	Gem Stone	True	
+🥞	Pancakes	True	
+👚	Pink Shirt	True	
+⁉️	Exclamation Question Mark	True	
+🆑	Clear Button	True	
+☎️	Rotary Phone	True	
+🤐	Lips Sealed	True	
+😿	Crying Cat	True	
+💕	Two Pink Hearts	True	
+⏩	Black Right-Pointing Double Triangle	True	
+🙌	Arms In The Air	True	
+🇵🇾	flag Paraguay	True	
+🔄	Refresh Icon	True	
+🃏	Playing Card Black Joker	True	
+🤳	Phone Camera	True	
+🈸	Request	True	
+🈷️	Radical 74	True	
+👿	Imp	True	
+🐀	Rat	True	
+🈁	Here	True	
+🇮🇴	British Indian Ocean Territory Flag	True	
+😳	Blushing Face	True	
+👋	Waving	True	
+🏮	Asian Lantern	True	
+👌	Perfect	True	
+📮	Postbox	True	
+☀️	Black Sun With Rays	True	
+⌚	Wrist Watch	True	
+📟	Beeper	True	
+🔬	Microscope	True	
+🔎	Magnifier	True	
+🍠	Roasted Sweet Potato	True	
+👤	User	True	
+💛	Yellow Heart	True	
+❌	wrong	True	
+🙈	See-No-Evil Monkey	True	
+🤗	Hug	True	
+🇧🇴	Bolivian Flag	True	
+🇬🇾	flag Guyana	True	
+😦	Yawning	True	
+🚶	Pedestrian	True	
+🕕	Clock Six O’Clock	True	
+🐌	Snail	True	
+🐸	Frog Face	True	
+🇦🇹	Austrian Flag	True	
+🌝	Moonface	True	
+😖	Confounded Face	True	
+🔥	Flame	True	
+👨‍👩‍👧‍👧	Family: Man, Woman, Girl, Girl	True	
+1️⃣	Keycap Digit One	True	
+🇳🇺	flag Niue	True	
+🔐	Closed Lock With Key	True	
+🎁	Gift	True	
+🇦🇶	Antarctic Flag	True	
+🇰🇾	flag Cayman Islands	True	
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	English Flag	True	
+🐳	Cute Whale	True	
+⛄	Snowman	True	
+🖱️	Three Button Mouse	True	
+🌼	Blossoming\xa0Flower	True	
+⏳	Hourglass With Flowing Sand	True	
+🇩🇴	Dominican Flag	True	
+💼	Briefcase	True	
+🐍	Snake	True	
+☕	Hot Beverage	True	
+🚏	Bus Stop	True	
+💫	Circle And Star	True	
+🎠	Carnival	True	
+💖	love	True	
+🎊	Confetti	True	
+🖐️	Splayed Hand	True	
+🎶	Music Notes	True	
+🗯️	Right Anger Bubble	True	
+🕗	Clock Eight O’Clock	True	
+🇫🇲	flag Micronesia	True	
+🔮	Clairvoyant	True	
+🇦🇮	Anguillan Flag	True	
+🗞️	Newspaper Delivery	True	
+🌓	First Quarter Moon Symbol	True	
+📦	Package	True	
+🇼🇫	flag Wallis &amp; Futuna	True	
+🍛	Curry	True	
+⛅	Sun Behind Cloud	True	
+⚪	Medium White Circle	True	
+🇹🇫	French Southern Lands Flag	True	
+🅱️	Blood Type B	True	
+🤽‍♂️	Man Playing Water Polo	True	
+🇨🇰	Cook Islander Flag	True	
+💵	$1 Note	True	
+🏕️	Camping	True	
+🚃	Railway Car	True	
+🈶	Squared CJK Unified Ideograph-6709	True	
+🎅	Santa Claus	True	
+🚎	Electric\xa0Bus	True	
+🕷️	Spider	True	
+🌆	Orange Sky City	True	
+🍩	Donut	True	
+🕌	Mosque	True	
+🕉️	Omkara	True	
+🚠	Mountain Cableway	True	
+☘️	Shamrock	True	
+🚕	New York Taxi	True	
+🔔	Wedding Bell	True	
+👨‍👦	Only parent	True	
+☎️	Black Telephone	True	
+💳	Credit Card	True	
+🖋️	Lower Left Fountain Pen	True	
+🇮🇷	Iranian\xa0Flag	True	
+🇷🇺	Regional Indicator Symbol Letters RU	True	
+📛	Name Tag	True	
+🏍️	Motorcycle	True	
+😔	Pensive	True	
+📈	Up Pointing Graph	True	
+🖼️	Picture Frame	True	
+⏰	Alarm	True	
+🇳🇪	Nigerien\xa0Flag	True	
+♨️	Onsen	True	
+😨	Surprised	True	
+📃	Curled Page	True	
+🍣	Sushi	True	
+🍻	drink	True	
+📃	Curled Page	True	
+🚪	Doorway	True	
+💓	Heart Alarm	True	
+💪	Muscle	True	
+🙃	Sarcasm	True	
+🍨	Bowl Of Ice Cream	True	
+😷	Bird Flu	True	
+🇸🇷	Surinamer Flag	True	
+😓	Hard Work	True	
+☂️	Umbrella	True	
+🎭	Tragedy and Comedy Masks	True	
+🚬	Smoke	True	
+🈯	Squared CJK Unified Ideograph-6307	True	
+㊙️	Secret	True	
+😒	Side-Eye	True	
+🇳🇷	flag Nauru	True	
+🐫	Camel	True	
+💠	Cuteness	True	
+🔣	Input Symbol for Symbols	True	
+🙆	Face With OK Gesture	True	
+🗝️	Old Key	True	
+📧	Email	True	
+💃	Dancing	True	
+👳	Arab	True	
+🇧🇬	Bulgarian Flag	True	
+🗣️	Speaking Head in Silhouette	True	
+🇰🇪	Kenyan Flag	True	
+🕵️	Private Eye	True	
+🔗	Chain	True	
+🎾	Tennis Ball	True	
+🇲🇳	flag Mongolia	True	
+💶	Banknote With Euro Sign	True	
+🏇	Horse Racing	True	
+👳	Muslim	True	
+🥉	Third Place Medal	True	
+📯	French Horn	True	
+🆖	Squared NG	True	
+🇺🇿	Uzbekistani Flag	True	
+2️⃣	Keycap Digit Two	True	
+🚀	Rocket Ship	True	
+💈	Barber Shop	True	
+👪	Parents With Child	True	
+🇳🇺	Niuean Flag	True	
+🏭	Industry	True	
+🇳🇨	flag New Caledonia	True	
+📎	Clippy	True	
+☯️	Yin Yang	True	
+⛲	Water Fountain	True	
+👛	Wallet	True	
+🔪	Hocho	True	
+😹	Cat Face With Tears of Joy	True	
+😴	Sleeping Face	True	
+🐺	Yellow Dog	True	
+↖️	Diagonal Up-Left Arrow	True	
+🍗	Turkey Leg	True	
+🇬🇺	flag Guam	True	
+🇲🇶	Martiniquais\xa0Flag	True	
+😤	Steaming	True	
+😴	Sleep Face	True	
+🍂	Autumn Leaves	True	
+👍	Thumbs Up Sign	True	
+🇨🇮	flag Côte D’Ivoire	True	
+🇯🇲	Jamaican\xa0Flag	True	
+🗄️	File Cabinet	True	
+🔏	Lock And Pen	True	
+👯	Dancing Girls	True	
+✉️	✉\xa0Letter	True	
+🏭	Pollution	True	
+🏮	Red Lantern	True	
+📛	Fire Tag	True	
+😗	Duck Face	True	
+🕘	Clock Nine O’Clock	True	
+🙋‍♂️	Man Raising Hand	True	
+✒️	Black Nib	True	
+🚽	Toilet	True	
+🙅	Face With No Good Gesture	True	
+💓	Butterflies In Stomach	True	
+💪	Flexing Arm Muscles	True	
+💂‍♀️	Woman Guard	True	
+🇸🇪	Swedish Flag	True	
+🌐	Globe With Meridians	True	
+💡	Idea	True	
+✊	Raised Fist	True	
+🇲🇳	Mongolian Flag	True	
+🇰🇼	Kuwaiti Flag	True	
+🐷	Pig Face	True	
+😾	Pouting Cat Face	True	
+📊	Bar Chart	True	
+🇲🇼	flag Malawi	True	
+🐻	Cute\xa0Bear	True	
+🎂	Cake With Candles	True	
+😫	Fed Up	True	
+🤦	Face Palm	True	
+🚆	Diesel Train	True	
+💸	Flying Money	True	
+🕴️	Man in Business Suit Levitating	True	
+♣️	Black Club Suit	True	
+🇮🇸	Icelandic Flag	True	
+🚣	Rowboat	True	
+🎻	String Quartet	True	
+🕵️	Detective	True	
+☀️	Sun	True	
+📦	Box	True	
+🌳	Rounded Tree	True	
+🇰🇭	Cambodian Flag	True	
+🛀	Bath	True	
+😽	Kissing Cat	True	
+🇸🇩	Sudanese Flag	True	
+🐫	Asian Camel	True	
+🐜	Ant	True	
+🇴🇲	Omani Flag	True	
+☄️	Comet	True	
+🎏	Carp Streamer	True	
+🔭	Telescope	True	
+🚐	Minivan	True	
+🔩	Screw	True	
+👥	Users	True	
+🌶️	Spicy	True	
+🙏	Please	True	
+🍏	Green Apple	True	
+📖	Book	True	
+👑	King	True	
+📁	Folder	True	
+🤼‍♂️	Men Wrestling	True	
+📹	Camcorder	True	
+™️	Trademark	True	
+🐁	Mice	True	
+😈	Devil Horns	True	
+💀	Grey Skull	True	
+🔉	Speaker With One Sound Wave	True	
+🤰	Pregnancy	True	
+🇧🇫	flag Burkina Faso	True	
+🌱	Spring	True	
+😍	Heart Eyes	True	
+🗿	Moyai Statue	True	
+🐄	Cow	True	
+⌚	Wrist Watch	True	
+🎉	Celebration	True	
+📬	Open Mailbox	True	
+💶	Banknote With Euro Sign	True	
+🌊	Water Wave	True	
+📖	Book	True	
+😰	Blue Face	True	
+😆	Laughing	True	
+🏎️	Racing Car	True	
+🐒	Cheeky Monkey	True	
+🇸🇬	Singaporean Flag	True	
+💻	Notebook	True	
+🤧	Sneezing Face	True	
+🆎	Negative Squared AB	True	
+🇲🇷	flag Mauritania	True	
+🎒	School Bag	True	
+🇹🇹	flag Trinidad &amp; Tobago	True	
+⚽	Soccer	True	
+🇳🇵	Nepalese Flag	True	
+😢	Tear	True	
+🇳🇫	Norfolk Island Flag	True	
+🇧🇷	flag Brasil	True	
+🇹🇩	Chadian Flag	True	
+🤷	¯\\_(ツ)_/¯	True	
+🇩🇪	Regional Indicator Symbol Letters DE	True	
+🚣	Boat With Paddles	True	
+🐒	Monkey	True	
+🔌	Power Cable	True	
+🌟	Gold Star	True	
+🎁	Gift Box	True	
+👑	Royal	True	
+🍭	Lollypop	True	
+👩‍👩‍👧‍👧	Lesbian family	True	
+🔒	Lock	True	
+👺	Tengu	True	
+💂	Guardsman	True	
+🎂	Birthday	True	
+🇲🇭	flag Marshall Islands	True	
+🛋️	Couch	True	
+🇹🇫	flag French Southern Territories	True	
+🇦🇲	Armenian Flag	True	
+🔫	Revolver	True	
+💈	Hairdresser	True	
+🕴️	Rude Boy	True	
+👨‍👩‍👧‍👦	Family: Man, Woman, Girl, Boy	True	
+🏉	Rugby	True	
+🖥️	Desktop Computer	True	
+😫	Tired Face	True	
+💰	Money Bag	True	
+👨‍🎤	Man Singer	True	
+📤	Outbox	True	
+✡️	Magen David	True	
+🙇	Cute Boy	True	
+🇵🇷	flag Puerto Rico	True	
+🤸	Gymnast	True	
+💴	Banknote With Yen Sign	True	
+🍸	Cocktail Glass	True	
+🚰	Potable Water Symbol	True	
+😂	Laughing Crying	True	
+🍳	Cooking	True	
+💷	Twenty Quid Note	True	
+🎞️	Film Frames	True	
+🐃	Water Buffalo	True	
+💴	Banknote With Yen Sign	True	
+⛲	Park	True	
+🍀	Ireland	True	
+🗒️	Spiral Note Pad	True	
+🚡	Aerial Tramway	True	
+🇦🇹	flag Austria	True	
+🗝️	Old Key	True	
+📇	Card Index	True	
+👔	Tie	True	
+👁️‍🗨️	Eye in Speech Bubble	True	
+👨‍👩‍👧	Family: Man, Woman, Girl	True	
+👟	Athletic Shoe	True	
+📼	Video Tape	True	
+🆚	Squared Vs	True	
+🌎	Earth	True	
+🇹🇩	flag Chad	True	
+🎁	Gift	True	
+💆‍♀️	Woman Getting Massage	True	
+🔥	Hot	True	
+↩️	Left Curved Arrow	True	
+⚗️	Alembic	True	
+🙄	Eye Roll	True	
+🇹🇿	flag Tanzania	True	
+🏃‍♀️	Boy Runner	True	
+⌚	Timepiece	True	
+🗳️	Voting	True	
+✋	Stop	True	
+😝	Tongue Out	True	
+🗞️	Rolled-Up Newspaper	True	
+✂️	Cutting	True	
+🏟️	Grandstand	True	
+🚹	Mens Symbol	True	
+🔦	Electric Torch	True	
+👏	Clapping Hands Sign	True	
+📱	Smartphone	True	
+🎷	Sax	True	
+👵	Nanna	True	
+📱	Mobile Phone	True	
+🐊	Croc	True	
+🕺	Male Dancer	True	
+🌡️	Thermometer	True	
+🔏	Lock And Pen	True	
+🎐	Jellyfish	True	
+🖊️	Lower Left Ballpoint Pen	True	
+🇻🇮	flag U.S. Virgin Islands	True	
+🗜️	Compression	True	
+🎰	Fruit Machine	True	
+🛌	Sleeping Accommodation	True	
+📕	Closed Book	True	
+🔒	Padlock	True	
+🚈	Light Rail	True	
+🔑	Key	True	
+🎐	Jellyfish	True	
+🍠	Potato	True	
+⚡	Thunderbolt	True	
+🈷️	Squared CJK Unified Ideograph-6708	True	
+❓	question	True	
+🔍	Magnifier	True	
+🍗	Poultry Leg	True	
+🌝	Full Moon With Face	True	
+🎅	Sinterklaas	True	
+🛅	Locked Suitcase	True	
+🍐	Pear	True	
+🛋️	Lounge	True	
+⏰	Alarm Clock	True	
+🚋	Tram Car	True	
+🍭	Android Lollipop	True	
+🛍️	Shopping Bags	True	
+👸	Girl With Tiara	True	
+🚱	No Drinking Water	True	
+🖊️	Lower Left Ballpoint Pen	True	
+🇱🇦	Lao Flag	True	
+🙄	Face With Rolling Eyes	True	
+📸	Camera With Flash	True	
+🇻🇳	Vietnamese Flag	True	
+🔍	Magnifying Glass	True	
+🎡	Fairground	True	
+🉐	Acquire	True	
+🦄	Unicorn	True	
+🛌	Sleeping Accommodation	True	
+🍟	McDonalds Fries	True	
+👾	Monster	True	
+🔌	Electric Plug	True	
+🗼	Red Tower	True	
+🐮	Cow	True	
+👝	Small Bag	True	
+🎣	Fishing Pole and Fish	True	
+👨‍❤️‍👨	Couple With Heart: Man, Man	True	
+🇼🇸	Samoan\xa0Flag	True	
+🔨	Hammer	True	
+🎍	New Year Decoration	True	
+👳	Turban	True	
+🏰	European Castle	True	
+🚳	No Bicycles	True	
+🆔	Squared ID	True	
+🍡	Dessert Stick	True	
+🍷	drink	True	
+🥃	Whisky	True	
+🏮	Red Lantern	True	
+👨‍👧‍👧	Father	True	
+↪️	Rightwards Arrow With Hook	True	
+🚊	Tram	True	
+💵	Dollar Bill	True	
+🇧🇯	Beninese Flag	True	
+🗺️	World Map	True	
+👨‍👨‍👧‍👧	Family: Man, Man, Girl, Girl	True	
+♏	Scorpio	True	
+🇻🇺	flag Vanuatu	True	
+🏸	Badminton Racquet and Shuttlecock	True	
+😆	Big Grin	True	
+📋	Clipboard	True	
+🍼	Bottle Feeding	True	
+😘	Blow A Kiss	True	
+🎈	Balloon	True	
+📀	DVD Video	True	
+👨	Man	True	
+🇬🇺	Chamorro Flag	True	
+🇬🇹	Guatemalan Flag	True	
+🇪🇺	EU Flag	True	
+😑	Expressionless Face	True	
+🔳	White Square Button	True	
+😝	Face With Stuck-Out Tongue and Tightly-Closed Eyes	True	
+🈶	有	True	
+🦀	Crab	True	
+🤢	Vomit	True	
+◻️	White Medium Square	True	
+🙈	Cheeky Monkey	True	
+⛴️	Ferry	True	
+📼	Video Tape	True	
+🦆	Duck	True	
+🗼	Tokyo Tower	True	
+👋	Waving Hand Sign	True	
+🌑	Solar Eclipse	True	
+🇧🇿	Belizean Flag	True	
+🎺	Horn	True	
+😉	Winky Face	True	
+🐎	Year Of The Horse	True	
+🍗	Chicken Drumstick	True	
+🗑️	Waste Paper Basket	True	
+🗳️	Voting	True	
+👨‍🎤	Alladin Sane	True	
+⌛	Hourglass	True	
+⬇️	Arrow Pointing Down	True	
+➰	Loop	True	
+📯	Postal Horn	True	
+🤜	Right-Facing Fist	True	
+🎮	Gamepad	True	
+👥	Silhouettes	True	
+📈	Chart With Upwards Trend	True	
+👟	Runner	True	
+🇩🇲	flag Dominica	True	
+🍆	Eggplant	True	
+😯	Hushed Face	True	
+👮	Policewoman	True	
+🐡	Pufferfish	True	
+🎀	Pink Bow	True	
+🌉	Golden Gate Bridge	True	
+📯	French Horn	True	
+📩	Down Arrow Envelope	True	
+📷	Digital Camera	True	
+🐅	Bengal Tiger	True	
+🍪	Cookie	True	
+📞	Phone	True	
+🍔	Cheeseburger	True	
+🙎‍♂️	Man Pouting	True	
+😆	&gt;&lt;	True	
+🍙	Nori	True	
+🍈	Honeydew	True	
+💵	American Dollar	True	
+🚴	Person On Bike	True	
+🇨🇽	flag Christmas Island	True	
+🔍	Magnifying Glass	True	
+📼	VHS	True	
+😄	Smiley Face	True	
+🍓	Strawberry	True	
+💢	Vein Pop	True	
+🌨️	Cloud With Snow	True	
+✒️	✒ Pen Nib	True	
+👻	Ghoul	True	
+🌎	Planet	True	
+🕌	Minaret	True	
+💀	Skeleton	True	
+😊	Smiley Face	True	
+😴	Zzz Face	True	
+🎷	Saxophone	True	
+💮	Cherry Blossom	True	
+🇱🇰	Sri Lankan Flag	True	
+🎊	Confetti Ball	True	
+🇹🇴	flag Tonga	True	
+⛵	Dinghy	True	
+⏫	Black Up-Pointing Double Triangle	True	
+💻	Personal Computer	True	
+🛡️	Shield	True	
+🏤	Post Office	True	
+🏝️	Desert Island	True	
+📲	Phone Call	True	
+🍫	Block Of Chocolate	True	
+🎺	Trumpet	True	
+🇨🇬	flag Congo - Brazzaville	True	
+⚰️	Coffin	True	
+🕎	Candles	True	
+💶	Euro	True	
+🤒	Ill	True	
+💭	Thinking Bubble	True	
+📟	Pager	True	
+🇺🇾	flag Uruguay	True	
+⛸️	Ice Skating	True	
+🐃	Domestic Water Buffalo	True	
+🦇	Bat	True	
+⛪	Church Building	True	
+📜	Scroll	True	
+🕋	Mecca	True	
+👬	Boys Holding Hands	True	
+🇫🇮	flag Finland	True	
+🎰	Poker Machine	True	
+📞	Handset	True	
+🚇	Underground	True	
+🚾	Water Closet	True	
+📥	Inbox	True	
+🍮	Flan	True	
+🏃	Runner	True	
+🥈	Silver Medal	True	
+💅	Manicure	True	
+🔆	High Brightness Symbol	True	
+👩‍❤️‍👩	Couple With Heart: Woman, Woman	True	
+🤗	Hugging	True	
+🥝	Chinese Gooseberry	True	
+🗿	Moyai	True	
+✌️	Victory Hand	True	
+🇩🇪	flag Germany	True	
+👨‍❤️‍💋‍👨	Gay kiss	True	
+🇫🇯	flag Fiji	True	
+🍾	Celebration	True	
+📠	Facsimile	True	
+📡	Satellite Antenna	True	
+🔤	Letters	True	
+🎾	Tennis Racquet	True	
+🈴	Squared CJK Unified Ideograph-5408	True	
+🍧	Snow Cone	True	
+📦	Parcel	True	
+👩‍👩‍👧‍👦	Family: Woman, Woman, Girl, Boy	True	
+🐪	Single Bump Camel	True	
+📍	Pin	True	
+🍄	Toadstool	True	
+🏒	Ice Hockey	True	
+🙁	Slightly Frowning Face	True	
+🌙	Crescent Moon	True	
+🍖	Barbecue	True	
+🇻🇪	Venezuelan Flag	True	
+🍕	Pepperoni Pizza	True	
+🙇	Massage	True	
+🇸🇳	flag Senegal	True	
+♌	Leo	True	
+🙉	Kikazaru	True	
+👹	Red Monster	True	
+🎹	Piano	True	
+👊	Fisted Hand Sign	True	
+🎱	Cue Ball	True	
+🔤	Input Symbol for Latin Letters	True	
+🤠	Cowboy	True	
+📩	Envelope With Downwards Arrow Above	True	
+🆘	Emergency	True	
+📖	Open Book	True	
+🚦	Vertical Traffic Light	True	
+😐	Straight Faced	True	
+🤷‍♀️	Woman Shrugging	True	
+🚩	Flag on Pole	True	
+💇	Cutting Hair	True	
+🔑	Gold Key	True	
+🚶‍♂️	Man Walking	True	
+☝️	Secret	True	
+🎈	Party	True	
+🎌	Crossed Flags	True	
+💯	Perfect Score	True	
+🇰🇮	flag Kiribati	True	
+🇩🇯	Djiboutian Flag	True	
+〽️	McDonald’s	True	
+🐊	Crocodile	True	
+💝	Heart With Ribbon	True	
+📝	Pencil And Paper	True	
+9️⃣	Keycap Digit Nine	True	
+🍅	Tomato	True	
+📳	Vibration Mode	True	
+📥	Inbox Tray	True	
+🇳🇱	Dutch Flag	True	
+🍂	Fallen Leaf	True	
+🔤	Alphabet	True	
+⛔	No Entry	True	
+🙅	No Deal	True	
+🍟	Fries	True	
+💏	Couple Kissing	True	
+☹️	White Frowning Face	True	
+🈁	Destination	True	
+🐈	Cat	True	
+◾	Black Medium Small Square	True	
+🕴️	Walt Jabsco	True	
+😪	Side-Tear	True	
+🇨🇦	Canadian Flag	True	
+🏂	Snowboarder	True	
+🇸🇸	South Sudanese\xa0Flag	True	
+➿	Voicemail	True	
+💔	Brokenhearted	True	
+🏄	Surfer	True	
+🔣	Symbols	True	
+🕡	Clock Six-Thirty	True	
+🚩	Red Flag	True	
+👶	Toddler	True	
+♦️	Black Diamond Suit	True	
+✌️	Air Quotes	True	
+👕	T-Shirt	True	
+💊	Pill	True	
+💅	Nail Polish	True	
+🛳️	Passenger Ship	True	
+🎮	Playstation	True	
+🐨	Drop Bear	True	
+🔇	Mute Volume	True	
+🤗	Hugging Face	True	
+📝	Memo	True	
+🇷🇪	Réunionnais Flag	True	
+➡️	Arrow Pointing Right	True	
+🆕	New	True	
+🔐	Lock And Key	True	
+🏜️	Desert	True	
+🇸🇻	El Salvadoran Flag	True	
+🇬🇧	UK Flag	True	
+🇮🇩	Indonesian Flag	True	
+🍱	Bento Box	True	
+🕔	Clock Five O’Clock	True	
+🇨🇭	flag Switzerland	True	
+📣	Cheering Megaphone	True	
+👃	Stinky	True	
+🇨🇱	Chilean Flag	True	
+🇻🇳	flag Vietnam	True	
+✈️	Flight	True	
+🇦🇱	Albanian Flag	True	
+💍	Engagement Ring	True	
+🍬	Candy	True	
+🚘	Oncoming Car	True	
+💘	Heart With Arrow	True	
+💝	Chocolate Box	True	
+🍜	Steaming Bowl	True	
+🥉	Bronze Medal	True	
+💎	Gem Stone	True	
+♑	Capricorn	True	
+💷	Banknote With Pound Sign	True	
+📐	Triangle Ruler	True	
+🖐️	Raised Hand With Fingers Splayed	True	
+🇧🇳	Bruneian Flag	True	
+💵	American Dollar	True	
+🏧	Automated Teller Machine	True	
+👩	Female	True	
+🏮	Japanese Lantern	True	
+🤔	Chin Thumb	True	
+🏨	Accommodation	True	
+🇺🇳	United Nations Flag	True	
+🏺	Vase	True	
+🥒	Pickle	True	
+🔅	Low Brightness Symbol	True	
+💈	Barbers Stripes	True	
+⛵	Sailboat	True	
+✨	Stars	True	
+🇸🇳	Sengalese Flag	True	
+🗜️	Clamp	True	
+🙌	Hallelujah	True	
+👴	Elderly Man	True	
+🇰🇲	flag Comoros	True	
+🔰	Yellow Green Shield	True	
+🙌	Praise Hands	True	
+🇨🇼	flag Curaçao	True	
+➖	Heavy Minus Sign	True	
+🕰️	Mantelpiece Clock	True	
+✴️	Orange Star	True	
+💸	Losing Money	True	
+💨	Wind	True	
+🇺🇸	USA Flag	True	
+🇩🇪	Deutsch Flag	True	
+🔼	Up Triangle	True	
+👩‍⚕️	Female Doctor	True	
+🇨🇳	Chinese Flag	True	
+🏌️‍♂️	Man Golfing	True	
+🌉	Bridge	True	
+🏡	House And Tree	True	
+🇺🇸	American Flag	True	
+5️⃣	Keycap Digit Five	True	
+🇬🇦	Gabonese Flag	True	
+🐶	Dog	True	
+🎫	Ticket Stub	True	
+😺	Smiling Cat	True	
+🗓️	Spiral Calendar Pad	True	
+🚘	Front Of Car	True	
+🅾️	Blood Type O	True	
+🌇	Sunset Over Buildings	True	
+🍖	Ano Niku	True	
+🏈	Football	True	
+😾	Grumpy Cat	True	
+🇬🇧	Union Jack	True	
+🎄	Christmas Tree	True	
+🌠	Shooting Star	True	
+✅	Green Tick	True	
+💳	AMEX	True	
+🍮	Dessert	True	
+📃	Page With Curl	True	
+👎	Thumbs Down Sign	True	
+❤️	Red Heart	True	
+🇳🇷	Nauruan Flag	True	
+🈯	指	True	
+🙏	Thank You	True	
+↘️	Diagonal Down-Right Arrow	True	
+⛹️‍♀️	Woman Bouncing Ball	True	
+🇪🇹	Ethiopian Flag	True	
+🌿	Herb	True	
+🈸	Squared CJK Unified Ideograph-7533	True	
+⏹️	Black Square for Stop	True	
+👩‍👧	Only parent	True	
+⏳	Hourglass With Flowing Sand	True	
+🖲️	Trackball	True	
+♻️	Black Universal Recycling Symbol	True	
+🛁	Bubble Bath	True	
+💮	Well Done Stamp	True	
+😔	Sorrowful	True	
+📥	Inbox	True	
+📲	Phone With Arrow	True	
+📨	Incoming Envelope	True	
+🌬️	Blowing Wind	True	
+🦃	Thanksgiving Turkey	True	
+👒	Ladies Hat	True	
+🛂	Passport Control	True	
+❕	Exclamation	True	
+📚	Pile Of Books	True	
+💡	Electric Light Bulb	True	
+🎇	Senko Hanabi	True	
+🍵	Teacup Without Handle	True	
+👨‍🔧	Man Mechanic	True	
+🇬🇼	Guinea-Bissau Flag	True	
+🏀	Orange Ball	True	
+🐈	Feline	True	
+💵	Banknote With Dollar Sign	True	
+🌚	Molester Moon	True	
+😡	Grumpy Face	True	
+📿	Dhikr Beads	True	
+😆	XD	True	
+🤐	Zipper-Mouth Face	True	
+📿	Rosary Beads	True	
+👫	Straight Couple	True	
+🌽	Corn	True	
+🍱	Lunch Box	True	
+💠	Kawaii	True	
+🇮🇸	flag Iceland	True	
+💷	£20 Note	True	
+🦎	Gecko	True	
+🇹🇦	flag Tristan Da Cunha	True	
+🏢	Office Building	True	
+⤵️	right down	True	
+🐚	Seashell	True	
+💬	Speech Balloon	True	
+🐗	Wild Pig	True	
+🏁	Racing Flag	True	
+💤	Sleep	True	
+🛀	Bathing	True	
+🚫	Restriction	True	
+🎎	Japanese Dolls	True	
+👨	Male	True	
+🛴	Scooter	True	
+🍙	Rice Ball	True	
+👨‍👦	Father	True	
+🐩	Standard Poodle	True	
+👭	Two Women Holding Hands	True	
+☸️	Wheel of Dharma	True	
+🔏	Lock With Ink Pen	True	
+🎶	Music	True	
+😬	Eek	True	
+🇵🇦	Panamanian Flag	True	
+🇮🇲	Manx Flag	True	
+💯	hundred	True	
+💏	Boy And Girl Kiss	True	
+💊	Tablet	True	
+🔬	Science	True	
+🔧	Wrench	True	
+⬅️	Leftwards Black Arrow	True	
+🇰🇭	flag Cambodia	True	
+📶	Signal Strength	True	
+💒	Marriage	True	
+🇬🇪	Georgian Flag	True	
+🖼️	Mona Lisa	True	
+👙	Bathers	True	
+🖥️	Desktop Computer	True	
+🎗️	Reminder Ribbon	True	
+🙎	Fed Up	True	
+🈲	Squared CJK Unified Ideograph-7981	True	
+🎚️	Level Slider	True	
+📐	Triangular Ruler	True	
+📨	Fast Envelope	True	
+🔩	Bolt	True	
+👹	Japanese Ogre	True	
+⛹️	Person With Ball	True	
+☂️	Umbrella	True	
+🎁	Wrapped Present	True	
+🐿️	Squirrel	True	
